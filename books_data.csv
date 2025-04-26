@@ -1,0 +1,937 @@
+sr_no,Book_name,author,language,type,product_real_price,product_disc_price,product_rating,qty_sold,discount_offered_prcnt,on_promotion
+0,Science and Technology,agrahari ravi p,English,Paperback,655,526,4.6,36,19,yes
+1,Think and Grow Rich,hill napoleon,English,Paperback,225,102,4.5,52575,54,yes
+2,Quantitative Aptitude for Competitive Examinations with...,aggarwal r. s.,English,Paperback,749,454,4.4,56087,39,No
+3,Life's Amazing Secrets how to find balance,das gaur gopal,English,Paperback,250,161,4.6,39847,35,No
+4,The Psychology of Money,housel morgan,English,Paperback,399,247,4.6,3554,38,No
+5,"Because Life is a Gift - Stories of Hope, Courage and P...",disha,English,Paperback,175,97,4.3,7786,44,No
+6,Sawal hi jawab hai,allan pease,Hindi,Paperback,150,90,4.4,7386,40,No
+7,Indian Polity - for Civil Services and Other State Exam...,laxmikanth m.,English,Paperback,940,639,4.6,36682,32,No
+8,Rahasya / The Secret,byrne rhonda,Hindi,Paperback,399,246,4.5,11123,38,No
+9,Nta UGC Net/ Set/ Jrf Paper 1 Teaching and Research Apt...,madaan k.v.s.,English,Paperback,449,256,4.5,449,42,No
+10,15 Practice Sets Ssc Constable Gd 2021,unknown,English,Paperback,140,112,4.3,1205,20,No
+11,Rich Dad Poor Dad,kiyosaki robert t.,Telugu,Paperback,399,247,4.4,7583,38,No
+12,Objective Computer Awareness,arihant experts,English,Paperback,140,123,4.4,7335,12,No
+13,Why I am an Atheist and Other Works,singh bhagat,English,Paperback,175,97,4.6,5670,44,yes
+14,Oxford Student Atlas for India,unknown,English,Paperback,315,230,4.5,34485,26,No
+15,General Knowledge 2022,pandey manohar,English,Paperback,195,148,4.4,1915,24,No
+16,One Arranged Murder,bhagat chetan,English,Paperback,225,152,4.6,19255,32,No
+17,Guide to Ssc Constable & Rifleman (Gd) Exam,unknown,English,Paperback,420,241,4.3,606,42,yes
+18,Attitude is Everything: Change Your Attitude ... Change...,keller jeff,English,Paperback,199,160,4.5,43571,19,No
+19,26 Years Upsc IAS/ Ips Prelims Topic-Wise Solved Papers...,patel mrunal,English,Paperback,575,321,4.5,10702,44,No
+20,How to Crack Test of Reasoning,jaikishan premkishan,English,Paperback,235,166,4.4,20401,29,No
+21,FITNESS HABITS: Breaking the Barriers to Fitness,ojha amaresh,English,Paperback,250,158,4.2,47,36,yes
+22,Rapid General Knowledge 2021 for Competitive Exams,unknown,English,Paperback,35,30,4.4,5272,14,No
+23,Ssc Multi Tasking Non-Technical Guide 2021,unknown,Hindi,Paperback,265,183,4.2,1890,30,No
+24,Rich Dad Poor Dad,kiyosaki robert t.,English,Paperback,499,302,4.5,32796,39,No
+25,Magical Mythology,gupta stuti,English,Paperback,295,174,4.7,23,41,yes
+26,"33 Years NEET-AIPMT Chapterwise Solutions -Physics, Che...",mtg editorial board,other,Paperback,950,530,4.5,5452,44,No
+27,Objective Ncert at Your Fingertips for Neet-Aiims - Bio...,unknown,English,Paperback,900,540,4.6,25997,40,No
+28,ALCHEMIST,paulo coelho,English,Paperback,350,210,4.6,50670,40,No
+29,You are the Best Wife,pandey ajay k.,English,Paperback,175,127,4.5,12189,27,yes
+30,Indian Art and Culture for Civil Services and Other Com...,singhania nitin,English,Hardcover,825,555,4.6,13136,32,No
+31,Ignited Minds - Unleashing the Power within India,kalam a p j abdul,English,Paperback,199,143,4.6,8609,28,No
+32,Lucent's - General Knowledge 2020 Edition,lucent's expert team,English,Paperback,225,179,4.5,36405,20,No
+33,"Authentic Shortcuts, Tips & Tricks in Physics for Jee M...",gupta harsh,English,Paperback,250,155,4.3,1517,38,yes
+34,Power of Your Subconscious Mind & Think and Grow Rich -...,joseph murphy napoleon hill,other,Boxset,399,135,4.7,121,66,No
+35,Baniye Network Marketing Millionaire - Network marketin...,unknown,Hindi,Paperback,225,166,4.5,5992,26,No
+36,Why Not Me? A Feeling of Millions (English),agrawal anubhav,English,Paperback,199,120,4.6,5033,39,No
+37,Life is What You Make it,shenoy preeti,English,Paperback,150,112,4.3,21819,25,yes
+38,CBSE All In One English Language & Literature Class 10 ...,agarwal srishti,English,Paperback,475,330,4.6,1279,30,No
+39,Fast Track Objective Arithmetic,verma rajesh,English,Paperback,465,298,4.5,28592,35,No
+40,Time Management,dixit sudhir,Hindi,Paperback,125,79,4.4,16418,36,No
+41,"Because Life is a Gift - Stories of Hope, Courage and P...",disha,English,Paperback,175,97,4.3,7786,44,yes
+42,The Secret,byrne rhonda,English,Hardcover,799,477,4.5,21105,40,No
+43,13 Years Solved Papers NEET 2021,arihant experts,English,Paperback,480,294,4.4,1476,38,No
+44,Lakshya,tracy brian,Hindi,Paperback,299,190,4.5,1842,36,No
+45,Science and Technology,agrahari ravi p,English,Paperback,655,526,4.6,36,19,yes
+46,Pathfinder Nda/Na National Defence Academy & Naval Acad...,unknown,English,Paperback,775,520,4.5,10345,32,No
+47,Panakkara Thanthai Yezhai Thanthai,kiyoski robert t.,Tamil,Paperback,399,223,4.5,2613,44,No
+48,Great Stories for Children,bond ruskin,English,Paperback,195,127,4.5,11090,34,No
+49,Think and Grow Rich,hill napoleon,English,Paperback,225,102,4.5,52575,54,yes
+50,CBSE All In One Chemistry Class 11 for 2022 Exam (Updat...,gupta preeti,English,Paperback,540,385,4.5,366,28,No
+51,Miss & Chief My First Book Of Patterns Pencil Control,unknown,English,Paperback,199,89,4.5,2138,55,No
+52,CBSE All In One Social Science Class 9 for 2022 Exam (U...,pattrea madhumitta,English,Paperback,465,319,4.5,491,31,No
+53,Wise & Otherwise,sudha murthy,English,Paperback,250,178,4.5,6086,28,No
+54,Objective General English,bakshi s.p.,English,Paperback,285,195,4.4,51273,31,No
+55,Manorama Year Book 2021 Covid 19,unknown,English,Paperback,300,269,4.6,4196,10,No
+56,Ancient and Medieval India,dahiya poonam dalal,English,Paperback,610,435,4.6,17083,28,No
+57,Everything I Never Told You,pandey ajay k.,English,Paperback,199,110,4.5,3070,44,No
+58,A Touch of Eternity,durjoy datta,English,Paperback,199,152,4.5,2060,23,No
+59,Why I am an Atheist and Other Works,singh bhagat,English,Paperback,175,97,4.6,5670,44,yes
+60,CBSE All In One English Class 11 for 2022 Exam (Updated...,srishti agarwal nandini sharma,English,Paperback,475,330,4.6,188,30,No
+61,Secret ( Tamil ),rhonda byrne,Tamil,Paperback,399,265,4.5,4885,33,No
+62,The Secret,byrne rhonda,English,Paperback,599,390,4.5,21105,34,No
+63,Guide to Ssc Constable & Rifleman (Gd) Exam,unknown,English,Paperback,420,241,4.3,606,42,yes
+64,Bhartiya Kala Evam Sanskriti ( Indian Art and Culture )...,nitin singhania,Hindi,Paperback,690,470,4.6,5260,31,No
+65,Atomic Habits,clear james,English,Paperback,799,478,4.4,3997,40,No
+66,Atomic Habits,clear james,Hindi,Paperback,299,192,4.5,709,35,No
+67,"Authentic Shortcuts, Tips & Tricks in Physics for Jee M...",gupta harsh,English,Paperback,250,155,4.3,1517,38,yes
+68,Ssc Multi Tasking Non-Technical Guide 2021,unknown,English,Paperback,270,169,4.2,2651,37,No
+69,Samanya Gyan 2022,pandey manohar,Hindi,Paperback,145,103,4.3,284,28,No
+70,21vi SADI KA VYVASAYA - Nirankari enterprises (Rich dad...,robert t. kiyosaki,Hindi,Paperback,225,139,4.4,2331,38,No
+71,8 Years Upsc Civil Services IAS Mains English (Compulso...,unknown,English,Paperback,140,112,4.4,353,20,yes
+72,CBSE All In One Chemistry Class 12 for 2022 Exam (Updat...,gupta indu,English,Paperback,540,383,4.4,445,29,No
+73,Jeetna Hai to Jid Karo - Jeetna hain to jid karo Second...,hundiwalan s.,Hindi,Paperback,135,113,4.4,6896,16,No
+74,Pathfinder Cds Combined Defence Services Entrance Exami...,unknown,English,Paperback,775,575,4.5,4075,25,No
+75,You are the Best Wife,pandey ajay k.,English,Paperback,175,127,4.5,12189,27,yes
+76,33 Years Chapterwise Solutions NEET Biology 2021,arihant experts,English,Paperback,320,187,4.4,856,41,No
+77,Secret,rhonda byrne,Marathi,Paperback,399,262,4.4,2478,34,No
+78,The Secret,byrne rhonda,Telugu,Paperback,499,246,4.4,5167,50,No
+79,"Because Life is a Gift - Stories of Hope, Courage and P...",disha,English,Paperback,175,97,4.3,7786,44,yes
+80,Indian Economy Key Concepts,karuppiah sankarganesh,English,Paperback,280,183,4.5,2829,34,No
+81,The Theory Of Everything,stephen hawking,English,Paperback,199,154,4.6,11033,22,No
+82,One Indian Girl,bhagat chetan,English,Paperback,195,105,4.3,47790,46,No
+83,Science and Technology,agrahari ravi p,English,Paperback,655,526,4.6,36,19,yes
+84,Toppers' Study Hacks,agarwal avinash,English,Paperback,249,188,4.5,3224,24,No
+85,CBSE All In One English Core Class 12 for 2022 Exam (Up...,srishti agarwal nandini sharma,English,Paperback,465,337,4.5,388,27,No
+86,IKIGAI,garcia hector,English,Hardcover,550,317,4.6,19189,42,No
+87,Think and Grow Rich,hill napoleon,English,Paperback,225,102,4.5,52575,54,yes
+88,CBSE All In One Social Science Class 10 for 2022 Exam (...,pattrea madhumitta,English,Paperback,465,334,4.5,1684,28,No
+89,Ikigai,garcia hector,Malayalam,Hardcover,350,245,4.4,291,30,No
+90,Mrityu: Jaanen Ek Mahayogi Se (Hindi Translation of Bes...,sadhguru,Hindi,Paperback,250,208,4.7,513,16,No
+91,Concepts Of Physics Vol I & II With Solutions Of Both T...,paperbage h c verma,other,other,"1,370","1,009",4.6,2075,26,No
+92,Pathfinder Nda/Na National Defence Academy & Naval Acad...,unknown,Hindi,Paperback,765,497,4.4,1296,35,No
+93,The Girl Who Knew Too Much - What if the Loved One You ...,khanna vikrant,English,Paperback,199,129,4.4,10425,35,No
+94,CBSE All in One Mathematics Class 10 for 2022 Exam (Upd...,prem kumar jitendra gupta brijesh dwivedi,English,Paperback,525,353,4.5,290,32,No
+95,"A New Approach to Reasoning - Verbal, Non - Verbal & An...",sijwalii b.s.,English,Paperback,625,490,4.5,16920,21,No
+96,8 Varsh UPSC Civil Sewa IAS Mains Hindi (Anivarya) Year...,disha experts,other,Paperback,140,79,4.6,159,43,No
+97,Why I am an Atheist and Other Works,singh bhagat,English,Paperback,175,97,4.6,5670,44,yes
+98,Ekkisvin Shatabdi Mein Antrashtriya Sambandh,unknown,Hindi,Paperback,220,159,4.4,553,27,No
+99,33 Years Chapterwise Solutions NEET Physics 2021,arihant experts,English,Paperback,320,187,4.5,729,41,No
+100,Eat that Frog! - 21 Great Ways to Stop Procastinating a...,brian tracy,English,Paperback,250,182,4.6,5082,27,No
+101,Guide to Ssc Constable & Rifleman (Gd) Exam,unknown,English,Paperback,420,241,4.3,606,42,yes
+102,Think and Grow Rich,hill napoleon,English,Paperback,199,85,4.5,52575,57,No
+103,Miss & Chief Colouring Books For Kids(Pack of 12 Books),wonder house books,English,Box,799,284,4.7,50,64,No
+104,HOW TO TALK TO ANYONE,leil lowndes,English,Paperback,299,194,4.4,5265,35,No
+105,FITNESS HABITS: Breaking the Barriers to Fitness,ojha amaresh,English,Paperback,250,158,4.2,47,36,yes
+106,Objective NCERT Gear Up Biology for NEET-AIIMS - Biolog...,ajay mohan,other,Paperback,850,558,4.5,254,34,No
+107,Inner Engineering (Hindi),sadhguru,Hindi,Paperback,199,133,4.6,6565,33,No
+108,The 5 AM Club,sharma robin,English,Paperback,350,218,4.5,14801,37,No
+109,Magical Mythology,gupta stuti,English,Paperback,295,174,4.7,23,41,yes
+110,Something I Never Told You,bhinder shravya,English,Paperback,250,172,4.5,10172,31,No
+111,Rich Dad Poor Dad,kiyosaki robert t.,Marathi,Paperback,299,178,4.5,4307,40,No
+112,"Objective NCERT At Your Fingertips(NEET) - Phy, Chem, B...",mtg,other,Paperback,"2,400","1,610",4.4,574,32,No
+113,You are the Best Wife,pandey ajay k.,English,Paperback,175,127,4.5,12189,27,yes
+114,The Winning Attitude,keller jeff,English,Paperback,250,139,4.6,1799,44,No
+115,8 Years Upsc Civil Services IAS Mains English (Compulso...,unknown,English,Paperback,140,112,4.4,353,20,No
+116,BHU Banaras Hindu University B.sc Math Group Entrance E...,arihant experts,other,Paperback,235,212,4.2,546,9,No
+117,"Because Life is a Gift - Stories of Hope, Courage and P...",disha,English,Paperback,175,97,4.3,7786,44,yes
+118,Think and Grow Rich,hill napoleon,English,Paperback,225,102,4.5,52575,54,No
+119,Nta UGC Net Paper 1 Topic-Wise 52 Solved Papers (2020 t...,unknown,English,Paperback,475,250,4.5,277,47,No
+120,Nta UGC Net Management Paper 2,sharma bharti,English,Paperback,635,400,4.5,94,37,No
+121,Science and Technology,agrahari ravi p,English,Paperback,655,526,4.6,36,19,yes
+122,CBSE All In One Social Science Class 10 for 2022 Exam (...,pattrea madhumitta,English,Paperback,465,334,4.5,1684,28,No
+123,How to Prepare for Logical Reasoning for Cat,sharma arun,English,Paperback,750,592,4.5,5942,21,No
+124,How to Prepare for Logical Reasoning for Cat,sharma arun,English,Paperback,750,530,4.5,5942,29,No
+125,CBSE All In One Biology Class 12 for 2022 Exam (Updated...,batra hema,English,Paperback,400,279,4.4,270,30,No
+126,Sainik School Entrance Exam,arihant experts,English,Paperback,265,164,4,33,38,No
+127,Who Will Cry When You Die?,sharma robin s.,Hindi,Paperback,185,131,4.3,1080,29,No
+128,Problems in General Physics,irodov i.e.,English,Paperback,130,84,4.5,10313,35,No
+129,Upsc IAS Prelims Paper 1 & 2 General Studies 10 Year-Wi...,unknown,English,Paperback,300,194,4.4,624,35,No
+130,Objective Arithmetic (SSC and Railway Exam Special) - I...,aggarwal r. s.,English,Paperback,595,360,4.4,2636,39,No
+131,Why I am an Atheist and Other Works,singh bhagat,English,Paperback,175,97,4.6,5670,44,yes
+132,A Brief History Of Time,hawking stephen,English,Paperback,399,220,4.5,14366,44,No
+133,Peppa Pig: Little Library,board book peppa pig,English,other,299,179,4.3,2588,40,No
+134,India's Most Fearless,aroor shiv,English,Paperback,299,194,4.7,3847,35,No
+135,Guide to Ssc Constable & Rifleman (Gd) Exam,unknown,English,Paperback,420,241,4.3,606,42,yes
+136,The NAMESAKE,jhumpa lahiri,English,Paperback,350,239,4.6,3621,31,No
+137,Aapke Avachetan Man Ki Shakti,marfi joshap,Hindi,Paperback,150,95,4.5,5354,36,No
+138,The Murder of Roger Ackroyd,christie agatha,English,Paperback,299,194,4.7,3660,35,No
+139,You are the Best Wife,pandey ajay k.,English,Paperback,175,127,4.5,12189,27,yes
+140,Encyclopedia of General Science for General Competition...,mukherji siddharth,English,Paperback,335,201,4.4,993,40,No
+141,"Bhartiya Nausena Mr & NMR Steward, Cook Avum Topass Bha...",unknown,Hindi,Paperback,165,140,4.3,4007,15,No
+142,Combo set of General knowledge and Fast track objective...,arihant experts,other,Paperback,585,332,4.3,20,43,No
+143,"Authentic Shortcuts, Tips & Tricks in Physics for Jee M...",gupta harsh,English,Paperback,250,155,4.3,1517,38,yes
+144,CBSE All In One English Language & Literature Class 9 f...,tanwar amit,English,Paperback,465,344,4.6,314,26,No
+145,CBSE All In One History Class 12 for 2022 Exam (Updated...,madhumita pattrea amibh ranjan,English,Paperback,400,324,4.7,89,19,No
+146,30 Days to a More Powerful Vocabulary,funk wilfred,English,Paperback,175,108,4.2,4338,38,No
+147,Life is What You Make it,shenoy preeti,English,Paperback,150,112,4.3,21819,25,yes
+148,"Go to Nda/ Na Study Package for Mathematics, English, G...",unknown,English,Paperback,"1,100",645,4.3,64,41,No
+149,Lets Talk Money:,halan monika,English,Paperback,399,246,4.6,1014,38,No
+150,I Too Had A Love Story,singh ravinder,English,Paperback,199,165,4.5,22101,17,No
+151,Ultimate Guide to Ssc Combined Graduate Level - Cgl (Ti...,unknown,English,Paperback,750,350,4.4,794,53,yes
+152,Murder on the Orient Express,christie agatha,English,Paperback,299,184,4.6,8737,38,No
+153,Murder on the Orient Express,christie agatha,English,Paperback,299,177,4.6,8737,40,No
+154,36 UGC NET Paper 1 Year-wise Solved Paper (2020 to 2004...,khan asim,English,Paperback,275,151,4.5,224,45,No
+155,"Because Life is a Gift - Stories of Hope, Courage and P...",disha,English,Paperback,175,97,4.3,7786,44,yes
+156,Geography of India,husain majid,English,Paperback,785,530,4.5,8066,32,No
+157,Magbook Indian Economy 2021,roshan rakesh kumar,English,Paperback,235,139,4.4,332,40,No
+158,The Discovery of India,unknown,English,Paperback,699,439,4.6,4100,37,No
+159,Science and Technology,agrahari ravi p,English,Paperback,655,526,4.6,36,19,yes
+160,Indian Polity Question Bank For Civil Services Prelimin...,vinay gb  a k jha,other,Paperback,495,323,4.3,158,34,No
+161,Questions are the Answers,pease allan,English,Paperback,150,111,4.5,4839,26,No
+162,Biology Simplified Ncert Class XII,gangwar dileep,English,Paperback,150,116,4.4,1553,22,No
+163,Think and Grow Rich,hill napoleon,English,Paperback,225,102,4.5,52575,54,yes
+164,Miss & Chief My First 100 Words,unknown,English,Hardcover,299,97,4.4,3001,67,No
+165,Master the Ncert for Neet Biology - 2021,sharma sanjay,English,Paperback,325,206,4.5,765,36,No
+166,Bharat Evam Vishwa Ka Bhugol ( Indian and World Geograp...,husain majid,Hindi,Paperback,575,440,4.3,2271,23,No
+167,The Intelligent Investor,graham benjamin,English,Paperback,799,485,4.5,16620,39,No
+168,CBSE All In One Economics Class 11 for 2022 Exam (Updat...,batra ritu,English,Paperback,465,323,4.6,61,30,No
+169,CBSE All In One Physical Education Class 11 for 2022 Ex...,reena kar tushar shukla,English,Paperback,300,229,4.5,33,23,No
+170,Shoe Dog,knight phil,English,Paperback,499,284,4.5,3281,43,No
+171,Handbook of Chemistry,gupta preeti kahan saleha ansari,English,Paperback,295,197,4.5,2483,33,No
+172,Important Judgments That Transformed India,george alex andrews,English,Paperback,285,229,4.5,4733,19,No
+173,Why I am an Atheist and Other Works,singh bhagat,English,Paperback,175,97,4.6,5670,44,yes
+174,Death on the Nile,christie agatha,English,Paperback,299,172,4.6,955,42,No
+175,Chapter-Wise Solved Previous Years' Papers for Cat,sharma arun,English,Paperback,625,470,4.5,222,24,No
+176,The Brave,rawat rachna bisht,English,Paperback,299,188,4.7,2247,37,No
+177,Guide to Ssc Constable & Rifleman (Gd) Exam,unknown,English,Paperback,420,241,4.3,606,42,yes
+178,Miss & ChiefMy First Book Of Patterns Small Letters,unknown,English,Paperback,199,46,4.5,1176,76,No
+179,Mental Ability for Ntse & Olympiad Exams for Class 10 (...,disha experts,English,Paperback,340,210,4.4,1135,38,No
+180,Indian and World Geography for Civil Services Prelimina...,husain majid,English,Paperback,610,435,4.4,2191,28,No
+181,You are the Best Wife,pandey ajay k.,English,Paperback,175,127,4.5,12189,27,yes
+182,42 Years Chapterwise Topicwise Solved Papers (2020-1979...,agarwal amit m,English,Paperback,485,299,4.5,847,38,No
+183,Combo set of General knowledge and Fast track objective...,arihant experts,other,Paperback,500,295,4.5,192,41,No
+184,The Complete Sherlock Holmes #2 Boxed Set,doyle arthur conan sir,English,Paperback,650,419,4.4,5569,35,No
+185,"Authentic Shortcuts, Tips & Tricks in Physics for Jee M...",gupta harsh,English,Paperback,250,155,4.3,1517,38,yes
+186,Jawahar Navodaya Vidyalaya Class 9 2022,unknown,English,Paperback,305,190,4.3,64,37,No
+187,14000+ Chapterwise Questions Objective General Studies ...,pandey manohar,English,Paperback,595,376,4.5,452,36,No
+188,CBSE All In One Information Technology Class 9 for 2022...,gaikwad neetu,English,Paperback,210,153,4.5,91,27,No
+189,Life is What You Make it,shenoy preeti,English,Paperback,150,112,4.3,21819,25,yes
+190,General Studies 2021 | Paper 1 | For Civil Services Pre...,bundle edgar thorpe showick thorpe,other,other,"1,799","1,353",4.4,45,24,No
+191,Computer Jaagrukta (Computer Awareness),unknown,Hindi,Paperback,140,113,4.3,962,19,No
+192,Challenges to Internal Security of India,unknown,English,Paperback,310,234,4.6,10870,24,No
+193,"Because Life is a Gift - Stories of Hope, Courage and P...",disha,English,Paperback,175,97,4.3,7786,44,yes
+194,33 Years Neet Chapterwise & Topicwise Solved Papers Phy...,unknown,English,Paperback,"1,100",657,4.4,2168,40,No
+195,Indian Army Ner General Duty 2019,ahluwalia r.d.,English,Paperback,140,101,4.4,2231,27,No
+196,10000+ Objective General Studies MCQS with Explanatory ...,unknown,English,Paperback,990,545,4.5,928,44,No
+197,Science and Technology,agrahari ravi p,English,Paperback,655,526,4.6,36,19,yes
+198,Roses Are Blood Red,chakraborty novoneel,English,Paperback,199,146,4.5,5754,26,No
+199,And Then There Were None,christie agatha,English,Paperback,299,172,4.6,7910,42,No
+200,33 Years Neet Chapterwise & Topicwise Solved Papers Phy...,unknown,English,Paperback,330,160,4.4,601,51,No
+201,Think and Grow Rich,hill napoleon,English,Paperback,225,102,4.5,52575,54,yes
+202,The Power Of Positive Thinking,dr. peale norman vincent,English,Paperback,199,170,4.4,7232,14,No
+203,BHU Banaras Hindu Vishwavidyalaya L.L.B Bachelor of Law...,arihant experts,other,Paperback,315,191,4.2,112,39,No
+204,I Still Think About You,vageria arpit,English,Paperback,195,127,4.3,3133,34,No
+205,Bhartiya Nausena Senior 2ary (SSR) 2019,unknown,Hindi,Paperback,260,201,4.2,1653,22,No
+206,Vishva Ka Itihas,nalin kumar,Hindi,Paperback,410,327,4.4,622,20,No
+207,Chanakya Neeti,pillai radhakrishnan,English,Paperback,299,218,4.6,2524,27,No
+208,Why I am an Atheist and Other Works,singh bhagat,English,Paperback,175,97,4.6,5670,44,yes
+209,Pitman Shorthand Instructor And Key 1st  Edition,issac pitman,English,Paperback,169,124,4.4,4356,26,No
+210,33 Years Neet Chapterwise & Topicwise Solved Papers Che...,unknown,English,Paperback,330,184,4.5,619,44,No
+211,Half Girlfriend,bhagat chetan,English,Paperback,250,147,4.2,57191,41,No
+212,Guide to Ssc Constable & Rifleman (Gd) Exam,unknown,English,Paperback,420,241,4.3,606,42,yes
+213,The Power of Habit,duhigg charles,English,Paperback,599,356,4.4,4730,40,No
+214,Wish I Could Tell You,datta durjoy,English,Paperback,199,137,4.5,10107,31,No
+215,Rich Dad's the Business School,kiyosaki robert t.,English,Paperback,250,161,4.5,3475,35,No
+216,You are the Best Wife,pandey ajay k.,English,Paperback,175,127,4.5,12189,27,yes
+217,43 Years Jee Advanced (1978 - 2020) + Jee Main Chapterw...,unknown,English,Paperback,530,298,4.4,308,43,No
+218,How to Stop Worrying and Start Living,dale carnegie,other,Paperback,199,70,4.5,71,64,No
+219,Miss & Chief My First Book Of Patterns Capital Letter,unknown,English,Paperback,199,78,4.4,2300,60,No
+220,"Authentic Shortcuts, Tips & Tricks in Physics for Jee M...",gupta harsh,English,Paperback,250,155,4.3,1517,38,yes
+221,Why Not Me?,agrawal anubhav,English,Paperback,199,123,4.6,1545,38,No
+222,Upsc New Syllabus & Tips to Crack IAS Preliminary and M...,electronic book text experts disha,English,other,150,119,4.3,9574,20,No
+223,One Night at the Call Centre,bhagat chetan,English,Paperback,250,171,4.4,5184,31,No
+224,Life is What You Make it,shenoy preeti,English,Paperback,150,112,4.3,21819,25,yes
+225,THE ULTIMATE GUIDE FOR NIFT NID IIFT ENTRANCE EXAM 2022,arihant,other,Paperback,655,408,4.3,17,37,No
+226,Bhartiya Thal Sena Mer Soldier Clerks (Skt),ahluwalia r.d.,Hindi,Paperback,195,167,4.3,320,14,No
+227,Ultimate Guide to Ssc Combined Graduate Level - Cgl (Ti...,unknown,English,Paperback,750,350,4.4,794,53,yes
+228,151 Nibandh for IAS/Pcs & Other Competitive Exams,unknown,Hindi,Paperback,300,154,4.3,466,48,No
+229,Complete NEET Guide PCB 3 BOOK COMBO SET,mtg,other,Paperback,"2,325","1,441",4.4,379,38,No
+230,Modern Indian History,bansal sonali,English,Paperback,645,488,4.6,1298,24,No
+231,"Because Life is a Gift - Stories of Hope, Courage and P...",disha,English,Paperback,175,97,4.3,7786,44,yes
+232,A Handbook for Letter Writing,gupta s.c.,English,Paperback,150,117,4.3,4123,22,No
+233,Will You Still Love Me?,singh ravinder,English,Paperback,199,129,4.5,9046,35,No
+234,NCERT General Science and Science and Technology for Ci...,sheelwant singh kriti rastogi sarika,other,Paperback,340,255,3.9,73,25,No
+235,Science and Technology,agrahari ravi p,English,Paperback,655,526,4.6,36,19,yes
+236,Master The Mains – General Studies Mains (GS Paper I): ...,suhas r vinay gb,other,Paperback,320,255,4.4,285,20,No
+237,The 3 Mistakes of My Life,bhagat chetan,English,Paperback,250,173,4.4,10019,30,No
+238,Miss & Chief Colouring Books For Kids(Pack of 12 Books),wonder house books,English,Box,799,284,4.7,50,64,No
+239,Think and Grow Rich,hill napoleon,English,Paperback,225,102,4.5,52575,54,yes
+240,JONATHAN LIVINGSTON SEAGULL,richard bach,English,Paperback,250,156,4.5,2338,37,No
+241,Harry Potter and the Deathly Hallows,rowling j.k.,English,Paperback,699,462,4.7,5001,33,No
+242,You Can Heal Your Life,hay louise l.,English,Paperback,499,307,4.5,2723,38,No
+243,Paryavaraniya Adhyayan Aur Shikshan Shastra,unknown,Hindi,Paperback,290,208,4.4,1953,28,No
+244,Miss & Chief My First Book Of Patterns Numbers 1 to 20,unknown,English,Paperback,199,79,4.5,1652,60,No
+245,CBSE All In One Hindi A Class 10 for 2022 Exam (Updated...,tiwari manju,Hindi,Paperback,335,239,4.4,387,28,No
+246,Miss & Chief Creative Crayons Super Pack (Set of 6 book...,unknown,English,Paperback,499,249,4.6,1467,50,No
+247,7 Year-wise MH-CET (MBA / MMS) Solved Papers (2014 - 20...,disha experts,other,Paperback,200,160,4.4,79,20,No
+248,Master The Mains – General Studies Mains (GS Paper II):...,suhas r vinay gb,other,Paperback,320,250,4.3,232,21,No
+249,Guide to Ssc Constable & Rifleman (Gd) Exam,unknown,English,Paperback,420,241,4.3,606,42,yes
+250,Imu-Cet Exam Full Package,learnx.co.in,other,Paperback,795,741,4.1,409,6,No
+251,Handbook of Mathematics,unknown,English,Paperback,250,166,4.5,1873,33,No
+252,Sochiye Aur Ameer Baniye,hill napoleon,Hindi,Paperback,175,146,4.4,3053,16,No
+253,You are the Best Wife,pandey ajay k.,English,Paperback,175,127,4.5,12189,27,yes
+254,"Master Reasoning Book Verbal, Non-Verbal & Analytical",unknown,Hindi,Paperback,665,426,4.4,1858,35,No
+255,Harry Potter Box Set: The Complete Collection (Children...,mixed media product rowling j.k.,English,other,"4,250","2,660",4.7,6843,37,No
+256,The 12-Week Fitness Project,diwekar rujuta,English,Paperback,199,110,4.4,1712,44,No
+257,"Authentic Shortcuts, Tips & Tricks in Physics for Jee M...",gupta harsh,English,Paperback,250,155,4.3,1517,38,yes
+258,Bhartiya Thal Sena Mer Nursing Assistant 2020,ahluwalia r.d.,Hindi,Paperback,195,143,4.3,112,26,No
+259,Upsc Syllabus & Tips to Crack IAS Prarambhik & Mukhya P...,electronic book text experts disha,Hindi,other,150,104,4.2,5094,30,No
+260,Power of Your Subconscious Mind,dr. joseph murphy,Tamil,Paperback,199,147,4.4,2403,26,No
+261,Life is What You Make it,shenoy preeti,English,Paperback,150,112,4.3,21819,25,yes
+262,For the Love of Physics,lewin walter,English,Paperback,499,325,4.7,2197,34,No
+263,Chemistry for Jee Main Third Edition,saini seema,English,Paperback,999,626,4.4,721,37,No
+264,Flowers on the Path,sadhguru,English,Paperback,150,105,4.6,4964,30,No
+265,Ultimate Guide to Ssc Combined Graduate Level - Cgl (Ti...,unknown,English,Paperback,750,350,4.4,794,53,yes
+266,Objective Indian Polity,laxmikanth m.,Telugu,Paperback,435,298,4.3,520,31,No
+267,Java the Complete Reference,unknown,English,Paperback,"1,200",877,4.7,195,26,No
+268,The Perks of Being a Wallflower,chbosky stephen,English,Paperback,350,231,4.6,3864,34,No
+269,"Because Life is a Gift - Stories of Hope, Courage and P...",disha,English,Paperback,175,97,4.3,7786,44,yes
+270,The Monk Who Sold His Ferrari Sanyasi Jisne Apni Sampat...,sharma robin s.,Hindi,Paperback,199,130,4.5,2363,34,No
+271,CBSE All In One Hindi B Class 10 for 2022 Exam (Updated...,tiwari manju,Hindi,Paperback,360,259,4.4,267,28,No
+272,Indian Air Force Airman Group 'X' Physics - Complete St...,unknown,English,Paperback,165,133,4.3,1514,19,No
+273,Science and Technology,agrahari ravi p,English,Paperback,655,526,4.6,36,19,yes
+274,That Night,upadhyay nidhi,English,Paperback,250,165,4.5,61,34,No
+275,Cbse All in One Social Science Class 9 for 2021 Exam,pattrea madhumita,English,Paperback,440,396,4.6,1357,10,No
+276,CBSE All In One Computer Application Class 10 for 2022 ...,gaikwad neetu,English,Paperback,250,178,4.4,113,28,No
+277,Think and Grow Rich,hill napoleon,English,Paperback,225,102,4.5,52575,54,yes
+278,Ssc Constable Gd Exam Practice Sets Latest Book For 202...,agrawal examcart,Hindi,Paperback,219,155,4.2,1350,29,No
+279,NCERT PLUS General Studies Objective & Subjective Quest...,disha experts,other,Paperback,"1,555",971,4.4,9,37,No
+280,The Book Thief,zusak markus,English,Paperback,399,262,4.6,6352,34,No
+281,36 UGC NET Paper 1 Year-wise Solved Paper (2020 to 2004...,khan asim,English,Paperback,275,151,4.5,224,45,No
+282,The Alchemist,coelho paulo,English,Hardcover,450,266,4.5,2351,40,No
+283,Her Last Wish,pandey ajay k.,English,Paperback,175,111,4.5,11515,36,No
+284,CBSE All In One Computer Application Class 9 for 2022 E...,joshi amit,English,Paperback,250,181,4.3,44,27,No
+285,"Achieve More, Succeed Faster",bajaj deepak,Hindi,Hardcover,199,125,4.6,1097,37,No
+286,Mathematics and Pedagogy For CTET/TET | For Class : VI-...,deepak pandey ravi kant agarwal om prakash,English,Paperback,280,188,4.3,158,32,No
+287,Why I am an Atheist and Other Works,singh bhagat,English,Paperback,175,97,4.6,5670,44,yes
+288,LOOKING FOR ALASKA,john green,English,Paperback,350,217,4.5,7205,38,No
+289,All-Time Favourites for Children,bond ruskin,English,Paperback,199,159,4.6,65,20,No
+290,"Thinking, Fast and Slow",kahneman daniel,English,Paperback,650,372,4.3,7263,42,No
+291,Guide to Ssc Constable & Rifleman (Gd) Exam,unknown,English,Paperback,420,241,4.3,606,42,yes
+292,CBSE All In One NCERT Based Mathematics Class 8 for 202...,chauhan abhishek,English,Paperback,335,251,4.4,70,25,No
+293,Indian Polity NCERT PLUS Objective MCQs for UPSC CSE & ...,disha experts,other,Paperback,310,186,4.2,55,40,No
+294,Jawahar Navodaya Vidyalaya Class 9 2021,unknown,Hindi,Paperback,295,216,4.3,467,26,No
+295,FITNESS HABITS: Breaking the Barriers to Fitness,ojha amaresh,English,Paperback,250,158,4.2,47,36,yes
+296,Half Girlfriend,bhagat chetan,English,Paperback,250,147,4.2,57191,41,No
+297,Educart TERM 1 Objective Question Bank Bundle - Maths &...,educart,other,Paperback,438,260,4.3,82,40,No
+298,Mathematics Railway Group D 25 Sets By Sahil Sir Biling...,sahil khandelwal sir,Hindi,Paperback,180,160,4.6,351,11,No
+299,Magical Mythology,gupta stuti,English,Paperback,295,174,4.7,23,41,yes
+300,10 Practice Sets Nda/Na Defence Academy & Naval Academy...,arihant experts,Hindi,Paperback,265,190,4.4,202,28,No
+301,Ssc Constable Gd Exam Guide 2021,unknown,Hindi,Paperback,240,204,4.3,2261,15,No
+302,The Girl of My Dreams,datta durjoy,English,Paperback,199,130,4.3,6489,34,No
+303,You are the Best Wife,pandey ajay k.,English,Paperback,175,127,4.5,12189,27,yes
+304,Everything is F*Cked - A Book About Hope,manson mark,English,Paperback,499,288,4.5,2867,42,No
+305,"Olympiad Champs Science, Mathematics, English Class 5",unknown,English,Paperback,760,532,4.3,64,30,No
+306,Mind is Your Business / Body the Greatest Gadget,unknown,English,Paperback,199,129,4.6,2785,35,No
+307,"Because Life is a Gift - Stories of Hope, Courage and P...",disha,English,Paperback,175,97,4.3,7786,44,yes
+308,"Oswaal CBSE MCQs Chapterwise For Term I & II, Class 10 ...",oswaal books,other,Paperback,557,435,4.4,90,21,No
+309,Skills in Mathematics - Integral Calculus for Jee Main ...,agarwal amit m.,English,Paperback,265,200,4.5,113,24,No
+310,Objective Biology for Neet,vijay rajiv,English,Paperback,650,446,4.6,675,31,No
+311,Science and Technology,agrahari ravi p,English,Paperback,655,526,4.6,36,19,yes
+312,Practical English Grammar & Composition 2020 Edition,gupta s.c.,English,Paperback,275,216,4.3,1733,21,No
+313,CBSE All in one NCERT Based English Class 8 for 2022 Ex...,unknown,English,Paperback,335,245,4.6,41,26,No
+314,CBSE All In One Sociology Class 11 for 2022 Exam (Updat...,raj priya verma nandini sharma,English,Paperback,250,192,4.1,14,23,No
+315,Think and Grow Rich,hill napoleon,English,Paperback,225,102,4.5,52575,54,yes
+316,Pearson IIT Foundation Mathematics | Class 10| 2021 Edi...,trishna,other,Paperback,650,430,4.5,77,33,No
+317,Mastering Numericals and Objectives of Physics for Clas...,malhotra stalin,English,Paperback,450,337,4.5,1701,25,No
+318,You are the Best Wife,pandey ajay k.,English,Paperback,175,127,4.5,12189,27,No
+319,SSC Constable GD Exam Guide 2021 + SSC Constable GD 15 ...,arihant experts,Hindi,Paperback,380,225,4.5,57,40,No
+320,What Every Body is Saying : An Ex-FBI Agent's Guide to ...,joe navarro marvin karlins,other,Paperback,499,307,4.6,347,38,No
+321,The Girl in the Red Lipstick,pandey ajay k,English,Paperback,199,158,4.8,134,20,No
+322,India After Gandhi - The History of the World's Largest...,guha ramachandra,English,Paperback,799,567,4.6,6640,29,No
+323,Essential English for Competitive Examinations,unknown,English,Paperback,550,285,4.3,1904,48,No
+324,Master Guide Ssc Cgl Combined Graduate Level Tier-I 202...,arihant experts,English,Paperback,565,356,4.4,787,36,No
+325,Why I am an Atheist and Other Works,singh bhagat,English,Paperback,175,97,4.6,5670,44,yes
+326,Study Package for Ntse,malhotra stalin,English,Paperback,925,575,4.4,1294,37,No
+327,"Skill It, Kill It",screwvala ronnie,English,Paperback,299,190,4.6,42,36,No
+328,19 Afcat Year-Wise (2021 - 11) Solved Papers,unknown,English,Paperback,210,112,4.4,80,46,No
+329,Guide to Ssc Constable & Rifleman (Gd) Exam,unknown,English,Paperback,420,241,4.3,606,42,yes
+330,2 States - The Story of My Marriage,bhagat chetan,English,Paperback,250,202,4.4,7199,19,No
+331,ELEVEN MINUTES,paulo coelho,English,Paperback,350,228,4.5,4996,34,No
+332,A Court of Silver Flames,maas sarah j.,English,Paperback,799,509,4.8,34,36,No
+333,"Authentic Shortcuts, Tips & Tricks in Physics for Jee M...",gupta harsh,English,Paperback,250,155,4.3,1517,38,yes
+334,Miss & Chief Giant Book Series Mermaid Colouring Book,unknown,English,Paperback,199,99,4.6,896,50,No
+335,General Studies Manual for Assam Civil Services Examina...,das raj kumar,English,Paperback,950,732,4.5,1228,22,No
+336,NCERT Essence: Bhartiya Rajvyavastha Evam Shasan - Civi...,rajiv pathak dharamveer vishnoi swadip singh,other,Paperback,320,227,4.4,66,29,No
+337,Life is What You Make it,shenoy preeti,English,Paperback,150,112,4.3,21819,25,yes
+338,How to Prepare for Quantitative Aptitude for the Cat 20...,sharma arun,English,Paperback,960,655,4.5,14356,31,No
+339,Post Independence India for Civil Services Examinations,sonali bansalsnehil tripathi,English,Paperback,195,160,4.5,2918,17,No
+340,Understanding Physics for JEE Main and Advanced Mechani...,pandey d.c.,English,Paperback,475,367,4.7,2031,22,No
+341,Ultimate Guide to Ssc Combined Graduate Level - Cgl (Ti...,unknown,English,Paperback,750,350,4.4,794,53,yes
+342,"Business School (only Book, Without Audio Cd)",robert t. kiyosaki,Hindi,Paperback,225,176,4.5,3312,21,No
+343,Mathematical Tools for Physics,husain shakir,English,Paperback,245,173,4.4,724,29,No
+344,JEE Advanced Mathematics - Coordinate Geometry by Pears...,sharma om,English,Paperback,725,522,4.8,95,28,No
+345,"Because Life is a Gift - Stories of Hope, Courage and P...",disha,English,Paperback,175,97,4.3,7786,44,yes
+346,Indian History - For Civil Services Examinations Second...,krishna reddy,English,Paperback,"1,100",836,4.4,4808,24,No
+347,Mathematics and Pedagogy For CTET/TET | For Class : I-V...,ravi kant agarwal deepak pandey om prakash,English,Paperback,275,187,4.5,290,32,No
+348,Prashnottar Mallika - Vastunishth Samanya Addhyan 14000...,pandey manohar,Hindi,Paperback,490,306,4.2,919,37,No
+349,Science and Technology,agrahari ravi p,English,Paperback,655,526,4.6,36,19,yes
+350,B.Sc General Nursing Guide (E),arihant experts,English,Paperback,540,383,4.2,420,29,No
+351,BD Chaurasia's Handbook of General Anatomy,garg krishna,English,Paperback,375,284,4.6,1912,24,No
+352,Miss & Chief Giant Book Series Transport Colouring Book,unknown,English,Paperback,199,99,4.6,1313,50,No
+353,Think and Grow Rich,hill napoleon,English,Paperback,225,102,4.5,52575,54,yes
+354,Problems in Mathematics with Hints and Solutions,govorov v.,English,Paperback,160,114,4.4,1438,28,No
+355,UBD1960 Errorless Biology for NEET as per New Pattern b...,expert team of ubd1960,other,Paperback,"1,660",831,4.4,281,49,No
+356,How to Be a Writer,bond ruskin,English,Hardcover,299,185,4.6,108,38,No
+357,Skills in Mathematics - Trigonometry for JEE Main and A...,agarwal amit m.,English,Paperback,275,203,4.6,114,26,No
+358,Inner Engineering - A Yogi's Guide to Joy,unknown,English,Paperback,299,201,4.6,14879,32,No
+359,CLAT Exam Guide,learnx,other,Paperback,795,456,4.1,141,42,No
+360,Understanding Physics for JEE Main and Advanced Optics ...,pandey d.c.,English,Paperback,395,297,4.6,52,24,No
+361,CBSE All In One Mathematics Class 11 for 2022 Exam (Upd...,kumar prem,English,Paperback,540,400,4.5,96,25,No
+362,CTET & TETs Previous Years' Papers - Mathematics & Scie...,arihant experts,other,Paperback,255,158,4,8,38,No
+363,Why I am an Atheist and Other Works,singh bhagat,English,Paperback,175,97,4.6,5670,44,yes
+364,CTET & TETs Previous Years' Papers,arihant experts,other,Paperback,255,175,4.5,4,31,No
+365,IAS Mains Chapterwise Solved Papers General Studies,mittal siddharth,Hindi,Paperback,445,273,4.1,29,38,No
+366,Child Development & Pedagogy CTET & TETs,arihant experts,English,Paperback,195,127,4.1,57,34,No
+367,Guide to Ssc Constable & Rifleman (Gd) Exam,unknown,English,Paperback,420,241,4.3,606,42,yes
+368,Objective NCERT Gear Up Chemistry for NEET- AIIMS - NEE...,vineet khatri,other,Paperback,725,457,4.5,232,36,No
+369,AB de Villiers - The Autobiography,villiers a b de,English,Paperback,650,416,4.7,1522,36,No
+370,43 Years Jee Advanced (1978 - 2020) + Jee Main Chapter ...,unknown,English,Paperback,600,321,4.4,261,46,No
+371,FITNESS HABITS: Breaking the Barriers to Fitness,ojha amaresh,English,Paperback,250,158,4.2,47,36,yes
+372,CDS 15 Years Mathematics Topic wise Solved Papers (2007...,disha experts,other,Paperback,510,273,4.6,26,46,No
+373,"Official GRE Quantitative Reasoning Practice Questions,...",undefined unknown,English,other,950,657,4.6,728,30,No
+374,Lucent Objective General Knowledge And Lucent General K...,sanjiv kumar,other,Paperback,603,399,4.3,450,33,No
+375,Magical Mythology,gupta stuti,English,Paperback,295,174,4.7,23,41,yes
+376,The Kite Runner,hosseini khaled,English,Paperback,499,360,4.5,8604,27,No
+377,Ncert General Studies for Civil Services & State Servic...,unknown,English,Paperback,460,395,4.2,566,14,No
+378,Conceptual Problems in Organic Chemistry : for Engineer...,d.k singh,English,Paperback,450,396,4.4,1300,12,No
+379,You are the Best Wife,pandey ajay k.,English,Paperback,175,127,4.5,12189,27,yes
+380,"Official GRE Quantitative Reasoning Practice Questions,...",undefined unknown,English,other,950,657,4.6,728,30,No
+381,CDS 15 Years Mathematics Topic wise Solved Papers (2007...,disha experts,other,Paperback,510,273,4.6,26,46,No
+382,Child Development & Pedagogy CTET & TETs,arihant experts,English,Paperback,195,127,4.1,57,34,No
+383,"Because Life is a Gift - Stories of Hope, Courage and P...",disha,English,Paperback,175,97,4.3,7786,44,yes
+384,AB de Villiers - The Autobiography,villiers a b de,English,Paperback,650,416,4.7,1522,36,No
+385,43 Years Jee Advanced (1978 - 2020) + Jee Main Chapter ...,unknown,English,Paperback,600,321,4.4,261,46,No
+386,Indian Polity (Telugu Version),m. laxmikanth,Telugu,Paperback,695,469,4.4,2225,32,No
+387,Science and Technology,agrahari ravi p,English,Paperback,655,526,4.6,36,19,yes
+388,Neet 32 Year's Chapterwise Solved Papers Bhotiki 2021,gangwar dileep,English,Paperback,225,143,4.1,34,36,No
+389,Conceptual Problems in Organic Chemistry : for Engineer...,d.k singh,English,Paperback,450,396,4.4,1300,12,No
+390,Think and Grow Rich,hill napoleon,English,Paperback,225,102,4.5,52575,54,yes
+391,After - A Wattpad Novel,todd anna,English,Paperback,450,295,4.6,1046,34,No
+392,40 Days NEET Jeev Vigyan 2021,prashant kumar,other,Paperback,399,254,4.2,34,36,No
+393,The Big Book of Biology for Neet,unknown,English,Paperback,525,327,5,3,37,No
+394,The Kite Runner,hosseini khaled,English,Paperback,499,360,4.5,8604,27,No
+395,Ncert General Studies for Civil Services & State Servic...,unknown,English,Paperback,460,395,4.2,566,14,No
+396,ENGLISH CONVERSATION PRACTICE,taylor grant,English,Paperback,305,227,4.2,4889,25,No
+397,Perfect Genius NCERT English Worksheets for Class 3 (ba...,disha experts,English,Paperback,300,174,4.2,154,42,No
+398,CDS & CDS OTA 13 Varsh Samanya Gyan Year-wise Solved Pa...,disha experts,other,Paperback,400,220,4.5,16,45,No
+399,"14 Years NEET Solved Papers powered with Tips, Tricks &...",disha experts,other,Paperback,490,247,4.5,77,49,No
+400,Why I am an Atheist and Other Works,singh bhagat,English,Paperback,175,97,4.6,5670,44,yes
+401,Cbse Chemistry Chapterwise Solved Papers Class 12 for 2...,sharma reena,English,Paperback,325,239,4.5,2674,26,No
+402,Mass Communication Entrance Exam,arihant experts,English,Paperback,510,313,4.3,186,38,No
+403,"General Studies Manual, Paper 2- 2021",unknown,English,Paperback,895,548,4.5,315,38,No
+404,Guide to Ssc Constable & Rifleman (Gd) Exam,unknown,English,Paperback,420,241,4.3,606,42,yes
+405,Lucent's Samanya Gyan,singh s k,Hindi,Paperback,180,157,4.4,6871,12,No
+406,CBSE All in One Mathematics Class 9 for 2022 Exam (Upda...,rastogi amit,English,Paperback,475,338,4.5,157,28,No
+407,CBSE All In One Economics Class 12 for 2022 Exam (Updat...,batra ritu,English,Paperback,400,288,4.6,105,28,No
+408,You are the Best Wife,pandey ajay k.,English,Paperback,175,127,4.5,12189,27,yes
+409,CBSE All in one NCERT Based English Class 7 for 2022 Ex...,unknown,English,Paperback,290,214,4.7,30,26,No
+410,The Forty Rules of Love,shafak elif,English,Paperback,499,295,4.5,2264,40,No
+411,Harry Potter and the Philosopher's Stone,rowling j.k.,English,Paperback,499,305,4.6,15759,38,No
+412,"Authentic Shortcuts, Tips & Tricks in Physics for Jee M...",gupta harsh,English,Paperback,250,155,4.3,1517,38,yes
+413,Biology Simplified Ncert Class Xi,gangwar dileep,English,Paperback,200,163,4.4,1393,18,No
+414,History of Modern India,chandra bipan,English,Paperback,450,295,4.3,13863,34,No
+415,Adiyogi,unknown,English,Paperback,299,187,4.7,4582,37,No
+416,Life is What You Make it,shenoy preeti,English,Paperback,150,112,4.3,21819,25,yes
+417,Valmiki's Ramayana,ra subba,English,Paperback,249,180,4.5,318,27,No
+418,The Girl Next Door,vageria arpit,English,Paperback,199,106,4.5,916,46,No
+419,LIGHT ON YOGA,b. k. s. iyengar,English,Paperback,499,287,4.5,1481,42,No
+420,"Because Life is a Gift - Stories of Hope, Courage and P...",disha,English,Paperback,175,97,4.3,7786,44,yes
+421,The Boy With A Broken Heart,datta durjoy,English,Paperback,199,139,4.5,4357,30,No
+422,Cbse Physics Chapterwise Solved Paper Class 12 for 2021...,singh s.k.,English,Paperback,325,230,4.5,2995,29,No
+423,Sarasvati's Gift,kane kavita,English,Paperback,299,190,4.8,16,36,No
+424,Science and Technology,agrahari ravi p,English,Paperback,655,526,4.6,36,19,yes
+425,CBSE All In One Sanskrit Class 10 for for 2022 Exam (Up...,mishra rajmadi,Hindi,Paperback,250,177,4.4,136,29,No
+426,"Educart TERM 1 Objective Question Bank Bundle - Maths, ...",educart,other,Paperback,"1,005",565,4.3,258,43,No
+427,Combo Set of Encyclopedia of General Science for Genera...,arihant experts,other,Paperback,620,368,4.7,44,40,No
+428,Think and Grow Rich,hill napoleon,English,Paperback,225,102,4.5,52575,54,yes
+429,Skill in Mathematics - Algebra for Jee Main and Advance...,goyal s.k.,English,Paperback,695,526,4.6,140,24,No
+430,A Problem Book in Mathematical Analysis,berman g.n.,English,Paperback,180,172,4.4,902,4,No
+431,Indian Army Mer Nursing Assistant 2020,ahluwalia r.d.,English,Paperback,195,181,4.5,141,7,No
+432,The Dhoni Touch,sundaresan bharat,English,Paperback,299,214,4.6,2643,28,No
+433,Afcat (Flying Technical & Ground Duty Branch) 2021,unknown,English,Paperback,380,264,4.4,621,30,No
+434,18 Years Chapterwise Solutions Mathematics Jee Main 202...,unknown,English,Paperback,310,200,4.4,452,35,No
+435,The Boy who loved,dutta durjoy,English,Paperback,199,139,4.4,7031,30,No
+436,Financial Accounting - II,m hanif a mukherjee,other,Paperback,595,468,4.6,38,21,No
+437,Why I am an Atheist and Other Works,singh bhagat,English,Paperback,175,97,4.6,5670,44,yes
+438,Wbcs Prelim Mock Test Series 2021,sarkar samim,Bengali,Paperback,395,341,4.4,1296,13,No
+439,CBSE All In One Computer Science Class 11 for 2022 Exam...,neetu gaikwad shweta agarwal,English,Paperback,250,187,4.2,25,25,No
+440,Indian Air Force X & Y Group Technical & Non-Technical ...,unknown,English,Paperback,335,218,4.3,1239,34,No
+441,Guide to Ssc Constable & Rifleman (Gd) Exam,unknown,English,Paperback,420,241,4.3,606,42,yes
+442,Badi Shoch Ka Bada Jadu,schwartz david j.,Hindi,Paperback,250,163,4.5,4329,34,No
+443,Design of Machine Elements | Fifth Edition,v b bhandari,other,Paperback,750,672,4.7,140,10,No
+444,The Hungry Tide,ghosh amitav,English,Paperback,399,259,4.6,843,35,No
+445,You are the Best Wife,pandey ajay k.,English,Paperback,175,127,4.5,12189,27,yes
+446,The Perfect Us,datta durjoy,English,Paperback,199,147,4.5,9682,26,No
+447,Cbse Mathematics Chapterwise Solved Paper Class 12 for ...,rastogi amit,English,Paperback,355,235,4.5,1968,33,No
+448,You are My Reason to Smile,vageria arpit,English,Paperback,175,107,4.4,5296,38,No
+449,"Authentic Shortcuts, Tips & Tricks in Physics for Jee M...",gupta harsh,English,Paperback,250,155,4.3,1517,38,yes
+450,Habit Of Winning,prakash iyer,English,Paperback,299,196,4.5,3820,34,No
+451,Pearson Iit Foundation Series Class 7 Chemistry,unknown,English,Paperback,345,242,4.6,177,29,No
+452,Life is What You Make it,shenoy preeti,English,Paperback,150,112,4.3,21819,25,yes
+453,Word Power Made Easy (Norman Lewis) Goyal Publishers & ...,norman lewis,other,Paperback,242,130,4.6,76,46,No
+454,Nta UGC Net Commerce Paper 2,singh neetu,English,Paperback,685,395,4.2,97,42,No
+455,Power of Love:,yohan i athanasius,English,Paperback,299,148,4.6,31,50,No
+456,"Because Life is a Gift - Stories of Hope, Courage and P...",disha,English,Paperback,175,97,4.3,7786,44,yes
+457,ENVIRONMENT 7th Revised Edition By Shankar IAS Academy,shankar ias academy,other,Paperback,400,331,4.2,11251,17,No
+458,Rumi A New Translation,dhondy farrukh,English,Hardcover,399,259,4.5,663,35,No
+459,CBSE All In One Sociology Class 11 for 2022 Exam (Updat...,raj priya verma nandini sharma,English,Paperback,250,192,4.1,14,23,No
+460,Science and Technology,agrahari ravi p,English,Paperback,655,526,4.6,36,19,yes
+461,CBSE All In One NCERT Based Science Class 8 for 2022 Ex...,arjun sharma seema mehra shikha sharma,English,Paperback,349,232,4.5,54,33,No
+462,Essays for Civil Services and Other Competitive Examina...,khare pulkit,English,Paperback,125,83,4.3,4837,33,No
+463,Educart Question Bank Class 10 Bundle With Reduced Syll...,educart,other,Paperback,"2,296","1,297",4.4,413,43,No
+464,Think and Grow Rich,hill napoleon,English,Paperback,225,102,4.5,52575,54,yes
+465,BHU Banaras Hindu Vishvavidayala B.Sc Bio Varg Parvesh ...,arihant experts,other,Paperback,235,197,3.9,76,16,No
+466,Indian Coast Guard Navik General Duty (Gd) Section 2 Gu...,unknown,Hindi,Paperback,185,176,4.3,124,4,No
+467,SSC Constable GD Exam 2021 20 Solved Practice Sets Avam...,agrawal examcart,Hindi,Paperback,219,152,4.2,162,30,No
+468,"Bhu B.Ed Bhasha Samuh Parvesh Pariksha 2021 (Hindi, Pap...",unknown,English,Paperback,285,174,4.4,19,38,No
+469,The 12-Week Fitness Project [Updated for 2021 with 3ext...,diwekar rujuta,English,Paperback,250,161,4.6,67,35,No
+470,General Knowledge 2022,unknown,English,Paperback,120,108,4.4,649,10,No
+471,"Uttar Pradesh - Samagra Adhyayan, Uttar Pradesh Public ...",rakesh saraswat,other,Paperback,325,285,4.4,59,12,No
+472,Till The Last Breath . . .,datta durjoy,English,Book,199,115,4.5,5092,42,No
+473,General Knowledge 2021 (New Adition) In English Useful ...,neeraj singh,other,Paperback,357,185,4.5,101,48,No
+474,Why I am an Atheist and Other Works,singh bhagat,English,Paperback,175,97,4.6,5670,44,yes
+475,Srimad Bhagavad Gita As It Is : HINDI-2018- New Edition...,hard bound  his divine grace a. c. bhaktivedanta swami prabhupada,Hindi,other,399,169,4.8,11438,57,No
+476,Complete Course Nagrik Sastra class 11 (NCERT Based),smt. rashmi gaur  rajesh pandey,Hindi,Paperback,160,144,4.7,16,10,No
+477,Kareena Kapoor Khan's Pregnancy Bible:,aditi shah bhimjyani kareena kapoor khan,English,Paperback,499,374,4.5,16,25,No
+478,Guide to Ssc Constable & Rifleman (Gd) Exam,unknown,English,Paperback,420,241,4.3,606,42,yes
+479,Indian Economy Key Concepts India Porulatharam,karuppiah sankarganesh,Tamil,Paperback,235,185,4.3,184,21,No
+480,Nta UGC Net Management Paper 2,sharma bharti,English,Paperback,635,400,4.5,94,37,No
+481,"Cross Your Heart, Take My Name",chakraborty novoneel,English,Paperback,199,149,4.6,1317,25,No
+482,FITNESS HABITS: Breaking the Barriers to Fitness,ojha amaresh,English,Paperback,250,158,4.2,47,36,yes
+483,Objective Ncert at Your Fingertips for Neet-Aiims - Che...,unknown,English,Paperback,750,408,4.5,14842,45,No
+484,Very First Sight Words Sentences Level - 1,unknown,English,Paperback,180,140,4.4,1776,22,No
+485,SSC Constable GD 15 Practice Sets In Hindi BSF/NIA/CISF...,arihant,Hindi,Paperback,200,122,4.4,73,39,No
+486,Magical Mythology,gupta stuti,English,Paperback,295,174,4.7,23,41,yes
+487,Study Package for Ntse,malhotra stalin,English,Paperback,995,709,4.4,1294,28,No
+488,151 Essays for IAS/ Pcs & Other Competitive Exams,unknown,English,Paperback,320,184,4.4,1648,42,No
+489,Educart MATHEMATICS Term 1 Objective Question Bank Clas...,educart,other,Paperback,250,168,4.5,13,32,No
+490,You are the Best Wife,pandey ajay k.,English,Paperback,175,127,4.5,12189,27,yes
+491,Educart MATHEMATICS Term 1 Objective Question Bank Clas...,educart,other,Paperback,250,168,4.5,13,32,No
+492,Cbse New Pattern 15 Sample Paper Physics Class 12 for 2...,unknown,English,Paperback,240,160,4.6,2432,33,No
+493,"Because Life is a Gift - Stories of Hope, Courage and P...",disha,English,Paperback,175,97,4.3,7786,44,yes
+494,101 Best Indian Fables for Children,gupta stuti,English,Paperback,195,109,4,104,44,No
+495,Super 10 Mock Tests for Nta Neet 2021,unknown,English,Paperback,280,200,4.4,610,28,No
+496,Objective Ncert at Your Fingertips for Neet-Aiims - Che...,unknown,English,Paperback,750,408,4.5,14842,45,No
+497,Science and Technology,agrahari ravi p,English,Paperback,655,526,4.6,36,19,yes
+498,Very First Sight Words Sentences Level - 1,unknown,English,Paperback,180,140,4.4,1776,22,No
+499,UPSI Up Nirikshak Avum Plattoon Comander Exam Guide 202...,unknown,Hindi,Paperback,399,248,4.2,171,37,No
+500,Cbse New Pattern 15 Sample Paper Hindi Kendrik Class 12...,punia dimple,Hindi,Paperback,220,163,4.5,719,25,No
+501,Think and Grow Rich,hill napoleon,English,Paperback,225,102,4.5,52575,54,yes
+502,Bhartiya Thal Sena Mer Technical,ahluwalia r.d.,Hindi,Paperback,195,167,4.3,375,14,No
+503,20 Practice Jawahar Navodaya Vidyalaya 2021 for Class 6,unknown,Hindi,Paperback,230,171,4.3,337,25,No
+504,Greek Tales: The Boy Who Cried Horse,deary terry,English,Paperback,199,60,4.7,9,69,No
+505,Skills in Mathematics - Coordinate Geometry for JEE Mai...,goyal s.k.,English,Paperback,540,410,4.6,70,24,No
+506,Ssc Constable Gd Exam Practice Sets Latest Book for 202...,unknown,Hindi,Paperback,219,155,4.3,4559,29,No
+507,"13 Years Solved Papers Neet Bhautiki,Rasayan Vigyan & J...",unknown,English,Paperback,475,324,4.3,120,31,No
+508,Higher Algebra,unknown,English,Paperback,195,128,4.4,2775,34,No
+509,General English for All Competitive Examinations,gupta s.c.,English,Paperback,225,166,4.3,1977,26,No
+510,Bb in Indian Polity and Governance,unknown,English,Paperback,175,133,4.2,296,24,No
+511,Why I am an Atheist and Other Works,singh bhagat,English,Paperback,175,97,4.6,5670,44,yes
+512,CBSE All In One Hindi B Class 9 for 2022 Exam (Updated ...,ranjan rajiv,Hindi,Paperback,335,262,4.5,74,21,No
+513,Signals and Systems 2nd  Edition,oppenheim alan v.,English,Paperback,729,708,4.4,907,2,No
+514,She Friend-Zoned My Love,nagarkar sudeep,English,Paperback,199,100,4.5,3232,49,No
+515,Guide to Ssc Constable & Rifleman (Gd) Exam,unknown,English,Paperback,420,241,4.3,606,42,yes
+516,50 Practice Sets Bhartiye Thal Sena Clerk SKT and GD Bh...,rd ahluwaila,other,Paperback,165,104,4,13,36,No
+517,"Arihant CBSE New Pattern MCQ Based ACCOUNTANCY, BUSINES...",arihant experts,other,Paperback,425,300,4.5,15,29,No
+518,Sainik School Class 6 Entrance Exam Year-wise Solved Pa...,disha experts,other,Paperback,150,78,3.6,12,48,No
+519,You are the Best Wife,pandey ajay k.,English,Paperback,175,127,4.5,12189,27,yes
+520,Environment and Ecology,anand vaishali,English,Paperback,420,328,4.6,1069,21,No
+521,Best Classic Short Stories for Children,harpercollins,English,Paperback,250,158,4.5,28,36,No
+522,General Studies Manual Paper-1,manohar pandey,other,Paperback,"1,360",772,4.5,53,43,No
+523,"Authentic Shortcuts, Tips & Tricks in Physics for Jee M...",gupta harsh,English,Paperback,250,155,4.3,1517,38,yes
+524,Complete Mathematics for Jee Main 2021,prakash ravi,English,Paperback,945,615,4.4,330,34,No
+525,Study Guide Central Hindu School Entrance Exam 2021 For...,arihant experts,other,Paperback,425,256,4.3,630,39,No
+526,Magbook General Science 2021,singh poonam,English,Paperback,235,146,4.3,178,37,No
+527,Life is What You Make it,shenoy preeti,English,Paperback,150,112,4.3,21819,25,yes
+528,JEE Main Prep Guide 2021,deepak paliwal atique hasan ajit kumar jha rajkumar soni vishnu gupta lakshman prasad,other,Paperback,"1,395",872,4.3,46,37,No
+529,The Elements of Coordinate Geometry Part-1 Cartesian Co...,loney s.l.,English,Paperback,140,114,4.5,2740,18,No
+530,Programming in ANSI C,balagurusamy e.,English,Paperback,525,472,4.4,3747,10,No
+531,"Because Life is a Gift - Stories of Hope, Courage and P...",disha,English,Paperback,175,97,4.3,7786,44,yes
+532,CSAT 2021|Civil Services Aptitude Test |General Studies...,papeback edagar thorpe showick thorpe,other,other,"1,095",680,4.5,127,37,No
+533,Cbse New Pattern 15 Sample Paper English Core Class 12 ...,agarwal srishti,English,Paperback,240,163,4.5,2670,32,No
+534,Fitting Siddhant: Fitter Trade Theory |,balbir singh,other,Paperback,450,398,4.4,195,11,No
+535,Science and Technology,agrahari ravi p,English,Paperback,655,526,4.6,36,19,yes
+536,Cbse New Pattern 15 Sample Paper Social Science Class 9...,pattrea madhumita,English,Paperback,150,100,4.4,191,33,No
+537,The Land of Stories: The Wishing Spell,colfer chris,English,Paperback,499,306,4.8,48,38,No
+538,CBSE All In One Science Class 10 for for 2022 Exam (Upd...,sonal singh ruchi,English,Paperback,515,361,4.5,1603,29,No
+539,Think and Grow Rich,hill napoleon,English,Paperback,225,102,4.5,52575,54,yes
+540,Epfo (Enforcement Offier) Account Officer Guide Cum Pra...,na,English,Paperback,275,234,4.2,1256,14,No
+541,CBSE All in one NCERT Based English Class 8 for 2022 Ex...,unknown,English,Paperback,335,245,4.6,41,26,No
+542,YEARLY Current Affairs Pack of 4 Quarterly Issues (Janu...,disha experts,other,Paperback,700,374,4.6,79,46,No
+543,2 States - The Story of My Marriage,bhagat chetan,English,Paperback,250,202,4.4,7199,19,No
+544,The Perfect Us,datta durjoy,English,Paperback,199,147,4.5,9682,26,No
+545,DSSSB TGT Bharti Pariksha Tier-1,arihant experts,other,Paperback,295,188,4.1,22,36,No
+546,Awareness,osho,English,Paperback,399,263,4.6,353,34,No
+547,Arihant Ssc Constable Gd Exam Guide 2021 (English) With...,arihant experts,other,Paperback,280,184,4.2,957,34,No
+548,Why I am an Atheist and Other Works,singh bhagat,English,Paperback,175,97,4.6,5670,44,yes
+549,The Magic of Friendships,vilas shubha,English,Paperback,199,120,4.6,145,39,No
+550,PATHWAYS TO GREATNESS : Coming Together for Change,apj abdul kalam,Marathi,Paperback,225,131,4.3,16,41,No
+551,Nata Exam Full Package,learnx.co.in,other,Paperback,795,495,4.4,202,37,No
+552,Guide to Ssc Constable & Rifleman (Gd) Exam,unknown,English,Paperback,420,241,4.3,606,42,yes
+553,Matilda,dahl roald,English,Paperback,399,235,4.6,1565,41,No
+554,Lucent General Knowledge With Prabhat GK 2022 In Hindi,sunil kumar singh,Hindi,Paperback,220,187,4.2,125,15,No
+555,Revolution Twenty20 - Love . Corruption. Ambition,bhagat chetan,English,Paperback,250,159,4.5,8895,36,No
+556,FITNESS HABITS: Breaking the Barriers to Fitness,ojha amaresh,English,Paperback,250,158,4.2,47,36,yes
+557,General/ Banking/ Economy Awareness Topic-wise Solved P...,disha experts,other,Paperback,240,128,4.2,13,46,No
+558,LLB Entrance Exam Guide,learnx,other,Paperback,795,471,4.5,105,40,No
+559,26 Years Chapterwise Solved Questions UPSC IAS Pre Gene...,arihant experts,English,Paperback,405,256,4.3,405,36,No
+560,Magical Mythology,gupta stuti,English,Paperback,295,174,4.7,23,41,yes
+561,Uttar Pradesh Police Up-Nirikshak (Si) Mool Vidhi Ayum ...,unknown,English,Paperback,175,123,4.3,334,29,No
+562,Olympiad Books Practice Sets - Mathematics Class 10th,unknown,English,Paperback,125,108,4.4,178,13,No
+563,40 Days Crash Course for Neet Biology,arihant experts,English,Paperback,380,234,4.4,169,38,No
+564,You are the Best Wife,pandey ajay k.,English,Paperback,175,127,4.5,12189,27,yes
+565,Afcat 15 Practice Sets and Solved Papers 2021,unknown,English,Paperback,180,126,4.6,267,30,No
+566,Ncert Solutions Chemistry 12th,rastogi geeta,English,Paperback,185,119,4.4,2760,35,No
+567,Cbse New Pattern 15 Sample Paper Mathematics Class 10 (...,sain vicky,English,Paperback,240,169,4.5,2655,29,No
+568,"Because Life is a Gift - Stories of Hope, Courage and P...",disha,English,Paperback,175,97,4.3,7786,44,yes
+569,The India Way - Strategies For An Uncertain World,jaishankar s.,English,Hardcover,699,434,4.6,617,37,No
+570,7 Divine Laws to Awaken Your Best Self,mukundananda swami,English,Paperback,299,177,4.6,455,40,No
+571,Complete Biology for Neet,bhatia vinay,English,Paperback,795,613,4.4,348,22,No
+572,Science and Technology,agrahari ravi p,English,Paperback,655,526,4.6,36,19,yes
+573,40 Days Crash Course for Neet Chemistry,arihant experts,English,Paperback,380,235,4.4,150,38,No
+574,We Dream of Space,kelly erin entrada,English,Paperback,499,292,5,5,41,No
+575,CBSE All in One Hindi Kendrik Class 11 for for 2022 Exa...,punia dimple,Hindi,Paperback,380,290,4.6,24,23,No
+576,Think and Grow Rich,hill napoleon,English,Paperback,225,102,4.5,52575,54,yes
+577,33 Years Neet-Aipmt Chapterwise Solutions - Biology 202...,unknown,English,Paperback,350,235,4.5,1757,32,No
+578,The Best of Nikita Singh (Set of 3),nikita singh,English,Paperback,549,287,4.6,201,47,No
+579,Complete Course Jeev Vigyan Class 12 (Ncert Based) for ...,singh sanjay,Hindi,Paperback,465,422,4.2,29,9,No
+580,Cbse Physical Education Chapterwise Solved Papers Class...,kar reena,English,Paperback,175,150,4.5,924,14,No
+581,The Mystery of the School on Fire:,subramanian ravi,English,Paperback,250,154,4.6,39,38,No
+582,Chemical Engineering GATE 2022,nikhil gupta abhinav,English,Paperback,955,650,4.3,22,31,No
+583,30 Pratice Sets Indian Navy Senior Secondary Recruitmen...,arihant experts,other,Paperback,225,140,4,12,37,No
+584,5 Practice Sets for NDA/ NA Exam,disha experts,other,Paperback,200,107,4.7,3,46,No
+585,Why I am an Atheist and Other Works,singh bhagat,English,Paperback,175,97,4.6,5670,44,yes
+586,Olympiad Champs Mathematics Class 5 with Past Olympiad ...,unknown,English,Paperback,240,111,4.6,137,53,No
+587,Digital Marketing | Second Edition,seema gupta,other,Paperback,745,700,4.5,51,6,No
+588,Ultimate Guide to Ssc Combined Graduate Level - Cgl (Ti...,unknown,English,Paperback,750,350,4.4,794,53,No
+589,Guide to Ssc Constable & Rifleman (Gd) Exam,unknown,English,Paperback,420,241,4.3,606,42,yes
+590,The Best Couple Ever,chakraborty novoneel,English,Paperback,199,162,4.6,2744,18,No
+591,After We Collided,todd anna,English,Paperback,450,289,4.6,710,35,No
+592,Objective Chemistry for Neet 2022,unknown,English,Paperback,705,557,4.6,17,20,No
+593,FITNESS HABITS: Breaking the Barriers to Fitness,ojha amaresh,English,Paperback,250,158,4.2,47,36,yes
+594,Indian Army Mer Soldier Clerks (Skt),ahluwalia r.d.,English,Paperback,195,175,4.4,732,10,No
+595,Teach Yourself Quantitative Aptitude for All Competitiv...,sharma arun,English,Paperback,575,322,4.4,515,44,No
+596,IF TOMORROW COMES,sidney sheldon,English,Paperback,399,229,4.5,1931,42,No
+597,Magical Mythology,gupta stuti,English,Paperback,295,174,4.7,23,41,yes
+598,Indian Economy: for UPSC Civil Services & Other State P...,singh ramesh,English,Paperback,725,469,4.5,6794,35,No
+599,Suppandi! The Essential Collection (Blue cover),rajani,English,Paperback,"1,199","1,183",4.8,100,1,No
+600,Pathfinder Academy CSIR-JRF-NET Life Sciences Six Book ...,pranav kumar usha mina,English,Paperback,"2,455","1,425",4.5,1095,41,No
+601,You are the Best Wife,pandey ajay k.,English,Paperback,175,127,4.5,12189,27,yes
+602,INTERPRETER OF MALADIES,jhumpa lahiri,English,Paperback,399,192,4.5,1139,51,No
+603,Civil Sewa Interview,bhagat madhukar kumar,Hindi,Paperback,240,179,4.3,461,25,No
+604,Samanya Budhi Avum Tarkshakti Parikshan,jha r.k.,Hindi,Paperback,165,124,4.3,4189,24,No
+605,"Because Life is a Gift - Stories of Hope, Courage and P...",disha,English,Paperback,175,97,4.3,7786,44,yes
+606,CBSE All In One Mathematics Class 12 for 2022 Exam (Upd...,kumar prem,English,Paperback,565,412,4.3,61,27,No
+607,How to Crack Test of Reasoning - In All Competitive Exa...,jaikishan premkishan,English,Paperback,235,199,4.4,20401,15,No
+608,Ncert Exemplar Problems-Solutions Mathematics Class 8th,arihant experts,English,Paperback,275,215,4.4,1031,21,No
+609,Science and Technology,agrahari ravi p,English,Paperback,655,526,4.6,36,19,yes
+610,Lucent's General Knowledge With General Knowledge 2022,lucent manohar pandey,other,Paperback,233,187,4.4,1654,19,No
+611,Lucent General Knowledge Hindi,sunil kr singh,Hindi,Paperback,195,162,4.3,99,16,No
+612,Schaum's Outline of Linear Algebra,lipschutz seymour,English,Paperback,695,597,4.5,1014,14,No
+613,Think and Grow Rich,hill napoleon,English,Paperback,225,102,4.5,52575,54,yes
+614,Messed Up! But All For Love,parashar arvind,English,Paperback,175,103,4.3,1000,41,No
+615,Pearson Foundation Biology | Class 8| 2021 Edition| By ...,trishna,other,Paperback,370,253,4.7,21,31,No
+616,Lucent's General Knowledge And Arihant General Knowledg...,lucent manhor pandey,other,Paperback,236,185,4.4,19126,21,No
+617,General Knowledge Compendium for IAS Prelims General St...,disha experts,other,Paperback,190,124,4.6,23,34,No
+618,Bhartiye Vayusena Airmen X & Y Group Takniki Avum Gair-...,unknown,Hindi,Paperback,335,206,4.3,325,38,No
+619,Ggsipu Bjmc Guide 2021,chaudhary deepa,English,Paperback,400,245,4.2,41,38,No
+620,Quantitative Aptitude For Competitive Examinations Full...,dr rs aggarwal,other,Paperback,750,475,4.4,208,36,No
+621,Why I am an Atheist and Other Works,singh bhagat,English,Paperback,175,97,4.6,5670,44,yes
+622,Dictionary of Physics,bhatnagar nipendra,English,Paperback,135,79,4.3,165,41,No
+623,UGC Net/Set Paper: Volume I - Teaching and Research Apt...,madaan k.v.s,English,Paperback,449,350,4.3,401,22,No
+624,The 12-Week Fitness Project,diwekar rujuta,English,Paperback,199,110,4.4,1712,44,No
+625,Guide to Ssc Constable & Rifleman (Gd) Exam,unknown,English,Paperback,420,241,4.3,606,42,yes
+626,Mathematics for Class 9 by R D Sharma,sharma r.d.,English,Paperback,445,410,4.5,1078,7,No
+627,SSC Constable GD Exam Guide 2021 + SSC Constable GD 15 ...,arihant experts,other,Paperback,380,235,4.4,954,38,No
+628,Olympiad Champs Cyber Class 2 with Past Olympiad Questi...,disha experts,English,Paperback,175,86,4.5,15,50,No
+629,FITNESS HABITS: Breaking the Barriers to Fitness,ojha amaresh,English,Paperback,250,158,4.2,47,36,yes
+630,GO TO NDA/ NA Guide for Mathematics,disha experts,other,Paperback,350,169,4.4,74,51,No
+631,Olympiad Champs English Class 8 with Past Olympiad Ques...,disha experts,English,Paperback,225,100,4.6,11,55,No
+632,Latest SSC Constable GD Guidebook For Exam 2021,agrawal examcart,other,Paperback,439,257,4.3,38,41,No
+633,Magical Mythology,gupta stuti,English,Paperback,295,174,4.7,23,41,yes
+634,The Paradoxical Prime Minister,tharoor shashi,English,Hardcover,799,465,4.5,1032,41,No
+635,Master the Ncert for Neet Jeev Vigyan Part - 2 2020,unknown,Hindi,Paperback,260,183,4.3,365,29,No
+636,Environment Question Bank For Civil Services Preliminar...,s niranjan,other,Paperback,275,261,4.5,86,5,No
+637,You are the Best Wife,pandey ajay k.,English,Paperback,175,127,4.5,12189,27,yes
+638,Lucent's General Knowledge And Arihant General Knowledg...,lucent manhor pandey,other,Paperback,236,185,4.4,19126,21,No
+639,"Because Life is a Gift - Stories of Hope, Courage and P...",disha,English,Paperback,175,97,4.3,7786,44,yes
+640,Dictionary of Physics,bhatnagar nipendra,English,Paperback,135,79,4.3,165,41,No
+641,Quantitative Aptitude For Competitive Examinations Full...,dr rs aggarwal,other,Paperback,750,475,4.4,208,36,No
+642,General Knowledge Compendium for IAS Prelims General St...,disha experts,other,Paperback,190,124,4.6,23,34,No
+643,Science and Technology,agrahari ravi p,English,Paperback,655,526,4.6,36,19,yes
+644,Bhartiye Vayusena Airmen X & Y Group Takniki Avum Gair-...,unknown,Hindi,Paperback,335,206,4.3,325,38,No
+645,Ggsipu Bjmc Guide 2021,chaudhary deepa,English,Paperback,400,245,4.2,41,38,No
+646,Neet 32 Year's Chapterwise Solved Papers Jeev Vigyan 20...,unknown,English,Paperback,315,260,4.2,46,17,No
+647,Think and Grow Rich,hill napoleon,English,Paperback,225,102,4.5,52575,54,yes
+648,Nibandh Manjusha Civil Seva/Rajya Seva Ki Mukhya Pariks...,mishra samiratmaj,Hindi,Paperback,290,233,4.5,279,19,No
+649,Samanya Vigyan for Civil Services Examinations,unknown,Hindi,Paperback,590,455,4.4,134,22,No
+650,8 Years Upsc Civil Services IAS Mains General Studies P...,unknown,English,Paperback,360,207,4.4,593,42,No
+651,Rajasthan Vanpal/Vanrakshak Bharti Pariksha 2021,unknown,English,Paperback,361,172,4.4,214,52,No
+652,"Environmental Ecology, Bio-Diversity, Climate Change & ...",ravi p. agrahari,other,Paperback,475,346,4.5,131,27,No
+653,Kvpy 11 Years Solved Papers 2019-2009 Stream Sb/Sx,prasad lakshman,English,Paperback,295,186,4.6,567,36,No
+654,Olympiad Champs English Class 8 with Past Olympiad Ques...,disha experts,English,Paperback,225,100,4.6,11,55,No
+655,Environment Question Bank For Civil Services Preliminar...,s niranjan,other,Paperback,275,261,4.5,86,5,No
+656,Latest SSC Constable GD Guidebook For Exam 2021,agrawal examcart,other,Paperback,439,257,4.3,38,41,No
+657,Why I am an Atheist and Other Works,singh bhagat,English,Paperback,175,97,4.6,5670,44,yes
+658,The Paradoxical Prime Minister,tharoor shashi,English,Hardcover,799,465,4.5,1032,41,No
+659,Master the Ncert for Neet Jeev Vigyan Part - 2 2020,unknown,Hindi,Paperback,260,183,4.3,365,29,No
+660,"Arihant CBSE Chapterwise Solved Papers PHYSICS, CHEMIST...",arihant expert,other,Paperback,"1,035",624,4.4,2158,39,No
+661,Guide to Ssc Constable & Rifleman (Gd) Exam,unknown,English,Paperback,420,241,4.3,606,42,yes
+662,Textbook of Microbiology for Nursing,baveja c.p.,English,Paperback,425,358,4.4,497,15,No
+663,Encyclopedia of Samanya Vigyan - Sabhi Pratiyoge Pariks...,unknown,Hindi,Paperback,265,202,4.4,4454,23,No
+664,Aapki Skill Aapki Udaan : Up Your Game,screwvala ronnie,Hindi,Paperback,250,158,4.6,5,36,No
+665,You are the Best Wife,pandey ajay k.,English,Paperback,175,127,4.5,12189,27,yes
+666,Chakshu Combo Pack Of SSC Constable GD Exam Practice Se...,chakshu panel of experts,Hindi,Paperback,249,197,4.3,8,20,No
+667,Pearson Iit Foundation Chemistry Class 10 2021,unknown,English,Paperback,499,362,4.5,64,27,No
+668,Mathematics for Class 9 by R D Sharma,sharma r.d.,English,Paperback,445,410,4.5,1078,7,No
+669,"Authentic Shortcuts, Tips & Tricks in Physics for Jee M...",gupta harsh,English,Paperback,250,155,4.3,1517,38,yes
+670,Olympiad Champs Cyber Class 2 with Past Olympiad Questi...,disha experts,English,Paperback,175,86,4.5,15,50,No
+671,GO TO NDA/ NA Guide for Mathematics,disha experts,other,Paperback,350,169,4.4,74,51,No
+672,SSC Constable GD Exam Guide 2021 + SSC Constable GD 15 ...,arihant experts,other,Paperback,380,235,4.4,954,38,No
+673,Life is What You Make it,shenoy preeti,English,Paperback,150,112,4.3,21819,25,yes
+674,Information Technology a Textbook of Class 9,arora sumita,English,Paperback,495,418,4.3,593,15,No
+675,Face to Face Mat with 23 Years Solved Papers 2021,sijwalii b.s.,English,Paperback,570,346,4.3,72,39,No
+676,Lucent General Knowledge Hindi 2021Edition With Parbhat...,sunil kumar singh,Hindi,Paperback,210,175,4.3,4398,16,No
+677,"Because Life is a Gift - Stories of Hope, Courage and P...",disha,English,Paperback,175,97,4.3,7786,44,yes
+678,Errorless 11 Years Uppsc General Studies Prelim Papers ...,unknown,English,Paperback,290,184,4.4,530,36,No
+679,33 Yearsâ Chapter-wise and Topic-wise Solved Papers (...,mcgraw hill,other,Paperback,355,230,4.2,17,35,No
+680,Science and Technology,agrahari ravi p,English,Paperback,655,526,4.6,36,19,yes
+681,Bhartiya Vayu Sena Airman Group 'Y' Non Technical Trade...,unknown,Hindi,Paperback,210,170,4.4,818,19,No
+682,Sainik School Pravesh Pariksha,arihant experts,Hindi,Paperback,265,165,5,6,37,No
+683,Self Study B Pharma (H),arihant experts,Hindi,Paperback,595,376,4.1,317,36,No
+684,Think and Grow Rich,hill napoleon,English,Paperback,225,102,4.5,52575,54,yes
+685,Complete Guide for Mat and Other MBA Entrance Exams,disha experts,English,Paperback,830,455,4.4,489,45,No
+686,High School English Grammar & Composition Regular  Edit...,wren martin,English,Paperback,420,304,4.4,11854,27,No
+687,"Authentic Shortcuts, Tips & Tricks in Physics for Jee M...",gupta harsh,English,Paperback,250,155,4.3,1517,38,No
+688,Quarterly Current Affairs July to September 2020 for Co...,unknown,English,Paperback,175,89,4.5,1292,49,No
+689,Lucent VASTUNISHTH SAMANYA GYAN IN HINDI (Objective G.K...,neeraj chandra chaudhry and kiran kumari,Hindi,Paperback,360,257,4.5,438,28,No
+690,Comprehensive Guide to Cds Ota Exam,unknown,English,Paperback,550,360,4.3,183,34,No
+691,Andhra Pradesh Eamcet Engineering 20 Years Solved Paper...,unknown,English,Paperback,540,348,4.1,279,35,No
+692,"Ssc Gd Maths,rasoning,samnya Hindi,samnya Adhyan 2021",ankit bhati,Hindi,Paperback,459,343,4.4,1365,25,No
+693,Bhagavad Gita: As It Is 2016 English Edition,"""his divine grace a.c. bhaktivedanta swami prabhupada""",other,Hardcover,450,245,4.8,4115,45,No
+694,Why I am an Atheist and Other Works,singh bhagat,English,Paperback,175,97,4.6,5670,44,yes
+695,Oxford School Atlas,unknown,Hindi,Paperback,295,221,4.4,2701,25,No
+696,Ncert Exemplar Problems-Solutions Mathematics Class 7th,unknown,English,Paperback,250,180,4.4,822,28,No
+697,The Big Book of Biology for Neet,unknown,English,Paperback,475,296,5,3,37,No
+698,Guide to Ssc Constable & Rifleman (Gd) Exam,unknown,English,Paperback,420,241,4.3,606,42,yes
+699,Vectors and 3D Geometry for Jee Main and Advanced,agarwal amit m.,English,Paperback,260,226,4.6,1468,13,No
+700,Naveen Ankganit Pratiyogi Parikshaon Ke Liye,aggarwal r.s.,Hindi,Paperback,550,336,4.4,4071,38,No
+701,"Objective NCERT At Your FINGERTIPS  PHYSICS, CHEMISTRY,...",mtg expert,other,Paperback,"2,400","1,575",4.5,1723,34,No
+702,You are the Best Wife,pandey ajay k.,English,Paperback,175,127,4.5,12189,27,yes
+703,2019: How Modi Won India,sardesai rajdeep,English,Paperback,499,265,4.9,7,46,No
+704,"Rogi Swayam Chikitsak, Focuses On Ayurveda, Daily Habit...",na,Hindi,Paperback,159,149,4.4,2688,6,No
+705,42 Years Addhyaywar Solved Papers (2020-1979) IIT JEE R...,preeti gupta,other,Paperback,415,258,4.2,100,37,No
+706,Life is What You Make it,shenoy preeti,English,Paperback,150,112,4.3,21819,25,yes
+707,"Bhagavad Gita Bengali ( New Edition 2017,Hardcover )",his divine grace a. c. bhaktivedanta swami prabhupada,Bengali,Hardcover,800,279,4.7,3842,65,No
+708,Complete Course Social Science Class 10 (Ncert Based) f...,panday manohar,English,Paperback,300,291,3.5,4,3,No
+709,A Brief History of Modern India,ahir rajiv,English,Paperback,445,236,4.4,5128,46,No
+710,Ultimate Guide to Ssc Combined Graduate Level - Cgl (Ti...,unknown,English,Paperback,750,350,4.4,794,53,yes
+711,CBSE All in one NCERT Based Hindi Class 6 for 2022 Exam...,unknown,Hindi,Paperback,275,211,3.7,10,23,No
+712,Annihilation of Caste,ambedkar b. r.,English,Paperback,499,331,4.7,1433,33,No
+713,Fast-Track Vashthunisht Ankganit,unknown,Hindi,Paperback,450,302,4.4,1246,32,No
+714,"Because Life is a Gift - Stories of Hope, Courage and P...",disha,English,Paperback,175,97,4.3,7786,44,yes
+715,Uttar Pradesh – A Comprehensive Study for Uttar Pradesh...,rakesh saraswat,other,Paperback,375,339,4.6,50,9,No
+716,GATE 2022: Computer Science Engineering & IT Previous Y...,made easy editorial board,other,Paperback,950,580,4.5,313,38,No
+717,Complete Course Ganit Class 12 (Ncert Based) for 2022 E...,agarwal richa,Hindi,Paperback,385,349,4.3,15,9,No
+718,Science and Technology,agrahari ravi p,English,Paperback,655,526,4.6,36,19,yes
+719,CBSE All In One Sanskrit Class 9 for 2022 Exam (Updated...,parik hanuman,Hindi,Paperback,200,143,4.5,39,28,No
+720,Upsc 15 Practice Sets Samanya Addhyan Paper 1 2021,sharma rajan,Hindi,Paperback,335,190,4.5,25,43,No
+721,Bharat Ki Rajvyavastha,laxmikanth m.,Hindi,Paperback,725,534,4.5,8398,26,No
+722,Think and Grow Rich,hill napoleon,English,Paperback,225,102,4.5,52575,54,yes
+723,Combo set of GeneraL Knowledge and objective general en...,manohar pandey sp bakshi,English,Paperback,315,280,4.4,2633,11,No
+724,10 NEET UG Mock Test Paper As Per NTA New Paper Pattern...,target publications pvt ltd,other,Paperback,270,256,4.4,42,5,No
+725,Handbook Series of Electronics & Communication Engineer...,unknown,English,Paperback,250,191,4.2,1585,23,No
+726,Lucent Samanya Gyan & Arihant Samanya Gyan2021,manohar pandey s k singh,Hindi,Paperback,268,194,4.3,425,27,No
+727,The Last Queen,divakaruni chitra banerjee,English,Hardcover,599,371,4.6,173,38,No
+728,Mujhe Bananaa Hai Upsc Topper,jain nishant,Hindi,Book,250,178,4.5,5277,28,No
+729,BD Chaurasia’s Human Anatomy 8th Edition 2019 (Volume 1...,bd chaurasia,other,Paperback,"2,390","1,930",4.6,1520,19,No
+730,Bolna Hi Hai,kumar ravish,Hindi,Paperback,250,195,4.7,1348,22,No
+731,16 Years Solved Papers for Amu Engineering Entrance Exa...,unknown,English,Paperback,390,263,4,76,32,No
+732,Why I am an Atheist and Other Works,singh bhagat,English,Paperback,175,97,4.6,5670,44,yes
+733,Story Books Set of 10 in English with 101 Moral Stories...,unknown,English,Paperback,350,250,4.4,3510,28,No
+734,CMAT Exam Guide,learnx,other,Paperback,795,392,4.6,12,50,No
+735,Marathi Paripurna Vyakaran : 3686 Vastunishta Prashnasa...,balasaheb shinde,Marathi,Paperback,300,256,4.4,473,14,No
+736,Guide to Ssc Constable & Rifleman (Gd) Exam,unknown,English,Paperback,420,241,4.3,606,42,yes
+737,SSB Interview - The Complete Guide,dr. natarajan n.k.,English,Paperback,299,255,4.4,10922,14,No
+738,"Pearson NEET Foundation Physics, Chemistry & Biology | ...",pearson,other,Paperback,750,508,4.3,21,32,No
+739,Know Your State Uttar Pradesh,arihant experts,English,Paperback,275,165,4.4,604,40,No
+740,You are the Best Wife,pandey ajay k.,English,Paperback,175,127,4.5,12189,27,yes
+741,Arihant Ssc Constable Gd Exam Guide 2021 (Hindi) With G...,arihant,Hindi,Paperback,299,190,5,3,36,No
+742,Master the Ncert for Neet Physics,dangwal manish,English,Paperback,360,230,4.4,201,36,No
+743,Samanya Hindi Book,sanjiv kumar,Hindi,Paperback,205,170,4.4,419,17,No
+744,"Authentic Shortcuts, Tips & Tricks in Physics for Jee M...",gupta harsh,English,Paperback,250,155,4.3,1517,38,yes
+745,MASTER OF THE GAME,sidney sheldon,English,Paperback,350,220,4.6,790,37,No
+746,"C++: The Complete Reference, 4th Edition - The Complete...",schildt herbert,English,Paperback,899,701,4.5,781,22,No
+747,Cbse Geography Chapterwise Solved Paper Class 12 for 20...,sultan farah,English,Paperback,255,191,4.6,140,25,No
+748,Life is What You Make it,shenoy preeti,English,Paperback,150,112,4.3,21819,25,yes
+749,My First Picture Library Box Of 10 Board Books (Pre-Sch...,sawan,other,Hardcover,550,359,4.5,7299,34,No
+750,Mathematics | Chapter Wise | SSC CGL MAINS | Gagan Prat...,gagan pratap sir,Hindi,Paperback,400,280,4.5,1116,30,No
+751,The Secret,byrne rhonda,Malayalam,Paperback,499,325,4.5,3535,34,No
+752,"Because Life is a Gift - Stories of Hope, Courage and P...",disha,English,Paperback,175,97,4.3,7786,44,yes
+753,THE SECRET,rhonda byrne,Tamil,Paperback,599,388,4.5,306,35,No
+754,Samajik Adhyayan Aur Shikshan,singh umrao,Hindi,Paperback,340,220,4.4,699,35,No
+755,Kiran Ssc English Language Chapterwise Solved Papers 14...,unknown,English,Paperback,585,392,4.3,1269,32,No
+756,Science and Technology,agrahari ravi p,English,Paperback,655,526,4.6,36,19,yes
+757,CBSE New Pattern 15 Sample Paper English Language & Lit...,tanwar amit,English,Paperback,195,135,4.6,248,30,No
+758,A Poem a Day,gulzar,English,Hardcover,"3,999","2,518",4.8,5,37,No
+759,English Olympiad Class 1st,pandy dc,English,Paperback,50,47,4.4,301,6,No
+760,Think and Grow Rich,hill napoleon,English,Paperback,225,102,4.5,52575,54,yes
+761,Complete Course Ganit Class 11 (Ncert Based) for 2022 E...,agarwal richa,Hindi,Paperback,350,334,5,6,4,No
+762,Lucent's General Knowledge 10th Edition September 2020 ...,lucent publication,other,Paperback,212,175,4.5,1511,17,No
+763,"SSC Resource Book(Idioms & Phrases, OWS, Preposition, S...",glue  ajay kumar singh,other,Paperback,300,85,4.3,389,71,No
+764,Mission Bengal,bhattacharya snigdhendu,English,Hardcover,599,334,4.5,11,44,No
+765,LUCENTS General Knowledge WITH ARIHANT General Knowledg...,manohar pandey lucent,other,Paperback,236,185,4.4,3338,21,No
+766,Daivathinte Charanmar,unknown,Malayalam,Paperback,250,200,4.6,4843,20,No
+767,Indian Army NER Soldier GD General Duty Recruitment Exa...,yajvendra yadav ram singh yadav,Hindi,Paperback,150,131,4.3,3809,12,No
+768,CBSE All In One Entrepreneurship Class 12 for 2022 Exam...,batra ritu,English,Paperback,360,232,3.9,17,35,No
+769,Master the Ncert for Neet Chemistry - 2021,jha narendra,English,Paperback,360,231,4.5,343,35,No
+770,Why I am an Atheist and Other Works,singh bhagat,English,Paperback,175,97,4.6,5670,44,yes
+771,Combo set of General Knowledge and samanya gyan (Set of...,manohar pandey,other,Paperback,180,101,4.4,57,43,No
+772,Mathematics for Class 11 Examination 2020-2021,sharma r.d.,English,Paperback,645,588,4.6,2124,8,No
+773,Agnichirakukal,kalam abdul a. p. j.,Malayalam,Paperback,275,218,4.5,731,20,No
+774,Guide to Ssc Constable & Rifleman (Gd) Exam,unknown,English,Paperback,420,241,4.3,606,42,yes
+775,Picture Book Collections for Eary Learning (kids books ...,gurukanth,other,Paperback,432,235,4.4,132,45,No
+776,Naveen Ankganit (Scc And Railway Board),dr. r s aggarwal,Hindi,Paperback,550,334,4.4,1832,39,No
+777,Neet 12 Practice Sets 2021,chakravarthy himesh,English,Paperback,395,231,4.5,328,41,No
+778,You are the Best Wife,pandey ajay k.,English,Paperback,175,127,4.5,12189,27,yes
+779,Objective NCERT Xtract Physics for NEET/ JEE Main 5th E...,disha experts,other,Paperback,820,574,4.3,54,30,No
+780,CBSE All In One NCERT Based Science Class 8 for 2022 Ex...,arjun sharma seema mehra shikha sharma,English,Paperback,349,232,4.5,54,33,No
+781,Banking Awareness for SBI & IBPS Bank Clerk/ PO/ RRB/ R...,disha experts,other,Paperback,290,159,4.5,163,45,No
+782,"Authentic Shortcuts, Tips & Tricks in Physics for Jee M...",gupta harsh,English,Paperback,250,155,4.3,1517,38,yes
+783,Foundation Course in Mathematics with Case Study Approa...,disha experts,other,Paperback,480,343,4.8,6,28,No
+784,A Tb of Physical Chemistry Vol 1,kapoor k.l.,English,Paperback,395,374,4.6,335,5,No
+785,Biotechnology GATE 2022,agarwal b.m.,English,Paperback,845,527,4.4,10,37,No
+786,Life is What You Make it,shenoy preeti,English,Paperback,150,112,4.3,21819,25,yes
+787,Objective Physics for NEET 2020 | Volume 2 | Fourth Edi...,abhay kumar,English,Paperback,550,417,4.3,36,24,No
+788,"Physics Part 1 & 2, Chemistry Part -1 & 2 And Mathemati...",ncert,other,Paperback,950,588,4.2,2551,38,No
+789,Set Of Indian Army NER Soldier GD General Duty Recruitm...,ram singh yadav yajvender yadav,Hindi,Paperback,280,216,4.4,2875,22,No
+790,"Because Life is a Gift - Stories of Hope, Courage and P...",disha,English,Paperback,175,97,4.3,7786,44,yes
+791,Educart Science Class 10 Cbse Question Bank for 2022 Ex...,unknown,English,Paperback,599,359,4.4,602,40,No
+792,Mathematics For NDA And NA (R.S. Aggarwal),dr. r.s agrwal,other,Paperback,650,399,4.5,1253,38,No
+793,Elephants and Cheetahs,mukherjee saral,English,Paperback,399,274,4.7,17,31,No
+794,Science and Technology,agrahari ravi p,English,Paperback,655,526,4.6,36,19,yes
+795,Organic Chemistry,morrison robert thornton,English,Paperback,969,903,4.4,1685,6,No
+796,SSC English 195 Sets MB Publication 2021 Edition Latest...,hard binding  ajay kumar singh,Hindi,other,700,319,4.5,3136,54,No
+797,Upsc CSE (Mains) Previous 8 Years Solved Papers,drishti experts,other,Paperback,390,299,4.6,471,23,No
+798,Think and Grow Rich,hill napoleon,English,Paperback,225,102,4.5,52575,54,yes
+799,"Educart Maths, Physics, Chemistry & English Class 12 CB...",educart,other,Paperback,"2,499","1,638",4.3,7,34,No
+800,UP PGT Samajshastra 2021,dr. rajveer kumar,other,Paperback,190,130,4,70,31,No
+801,Physics Quick Book,d c pandey,English,Paperback,150,93,4.4,128,38,No
+802,Master the Ncert for Neet Rasayan Vigyan Part - 1 2020,unknown,Hindi,Paperback,260,213,4.3,274,18,No
+803,DSSSB TGT Recruitment Exam Tier-1,arihant experts,other,Paperback,295,188,4.1,17,36,No
+804,101 Panchtantra Stories (Paperback),unknown,English,Paperback,170,140,4.4,3759,17,No
+805,Civil Booster Latest-2021 Get 2 Book Free On Each Error...,s.sorout preeti singh,other,Paperback,525,425,4.5,136,19,No
+806,My First Picture Library Box Of 10 Board Books (Pre-Sch...,board book sawan,other,other,999,349,4.5,7299,65,No
+807,Why I am an Atheist and Other Works,singh bhagat,English,Paperback,175,97,4.6,5670,44,yes
+808,Nta Jee Main Chapter-Wise Dpp Sheets (25 Questions Patt...,unknown,English,Paperback,210,109,4.4,451,48,No
+809,Pearson IIT Foundation Science | Class 6| 2021 Edition|...,trishna,other,Paperback,520,367,4.6,65,29,No
+810,Cbse All in One Economics Class 11 for 2021 Exam,batra ritu,English,Paperback,450,322,4.5,261,28,No
+811,Guide to Ssc Constable & Rifleman (Gd) Exam,unknown,English,Paperback,420,241,4.3,606,42,yes
+812,Science For Class 10 : Physics + Chemistry + Biology CB...,manjit kaur lakhmir singh,other,Paperback,"1,485","1,057",4.5,2561,28,No
+813,Rapidex English For Hindi Speaking Course With CD,paperbsck  r k gupta,Hindi,other,235,223,4.4,673,5,No
+814,CBSE All In One Physics Class 12 for 2022 Exam (Updated...,mohan keshav,English,Paperback,595,391,4.4,402,34,No
+815,FITNESS HABITS: Breaking the Barriers to Fitness,ojha amaresh,English,Paperback,250,158,4.2,47,36,yes
+816,Essential English Grammar,murphy,English,Paperback,225,166,4.3,7756,26,No
+817,Mathematics For Class 10 (Examination 2020-2021) Paperb...,sharma r.d,other,Paperback,545,447,4.5,526,17,No
+818,FREAKONOMICS - A Rogue Economist Explores the Hidden Si...,levitt steven d.,English,Paperback,350,191,4.5,1349,45,No
+819,Magical Mythology,gupta stuti,English,Paperback,295,174,4.7,23,41,yes
+820,Objective Ncert at Your Fingertip Biology Xi-XII,unknown,Hindi,Paperback,800,490,4.4,1093,38,No
+821,Master the Ncert for Neet Physics - 2021,kumar satyam,English,Paperback,360,228,4.5,302,36,No
+822,Shashatra Seema Bal SSB ASI Steno And Head Constable Mi...,ram singh yadav,Hindi,Paperback,230,209,4.1,203,9,No
+823,You are the Best Wife,pandey ajay k.,English,Paperback,175,127,4.5,12189,27,yes
+824,Uptet Shikshak Ke Liye Paper-1 for Class 1 to 5 2020,unknown,English,Paperback,400,273,4.2,65,31,No
+825,The Power Of Your Subconscious Mind,joseph murphy,other,Paperback,199,139,4.5,2523,30,No
+826,All In One Chemistry ISC Class 11 2021-22,ansari sahana,English,Paperback,500,387,4.4,58,22,No
+827,"Because Life is a Gift - Stories of Hope, Courage and P...",disha,English,Paperback,175,97,4.3,7786,44,yes
+828,Educart Mathemetics Class 10 Cbse Question Bank 2022 (N...,unknown,English,Paperback,599,388,4.3,475,35,No
+829,MCA Entrance Exam Guide,learnx,other,Paperback,795,495,4.4,119,37,No
+830,Reasoning & Computer Aptitude Topic-wise Solved Papers ...,disha experts,other,Paperback,410,220,4.1,16,46,No
+831,Science and Technology,agrahari ravi p,English,Paperback,655,526,4.6,36,19,yes
+832,"Think And Grow Rich - Magic Formula for Success, Wealth...",hill napoleon,English,Paperback,299,195,4.5,52575,34,No
+833,43 JEE Main Physics Online (2019-2012) & Offline (2018-...,undefined disha experts,English,other,310,142,4.3,319,54,No
+834,"Srimad Bhagavad Gita As It Is : Kannada 
+(New Edition)",his divine grace a. c. bhaktivedanta swami prabhupada,Kannada,Hardcover,425,254,4.6,3942,40,No
+835,Think and Grow Rich,hill napoleon,English,Paperback,225,102,4.5,52575,54,yes
+836,General Science & Science and Technology: Theory and Qu...,samim sarkar sutapa kar,other,Paperback,595,407,4.3,242,31,No
+837,Reignited 2,singh srijan pal,English,Paperback,250,141,4.6,38,43,No
+838,General English,ak thakur,English,Paperback,360,260,4.4,3223,27,No
+839,"Arihant Master Of Reasoning Verbal ,non-Verbal&Analytic...",k.k singh rinku verma,Hindi,Paperback,650,405,4.4,438,37,No
+840,Al-Quran Al-Kareem(Large) Ref No 81 With Tajweed Rules ...,arabic allah subhanu ta'ala,other,Hardcover,999,628,4.6,20,37,No
+841,learn english series 2019 Edition,s c gupta,English,Paperback,160,123,4.2,1770,23,No
+842,Oxford School Atlas Hindi,oxford,Hindi,Paperback,295,222,4.3,206,24,No
+843,Business Studies Class 12,gandhi poonam,English,Paperback,504,420,4.5,701,16,No
+844,Why I am an Atheist and Other Works,singh bhagat,English,Paperback,175,97,4.6,5670,44,yes
+845,40 Days JEE Main Ganit 2021,arihant experts,other,Paperback,410,306,4.3,85,25,No
+846,JAIIB - PPB + Accounts + LAB - Macmillan - New Latest E...,macmillan publishers,other,Paperback,"1,960","1,430",4.5,679,27,No
+847,Guide to Ssc Constable & Rifleman (Gd) Exam,unknown,English,Paperback,420,241,4.3,606,42,yes
+848,Civil Booster Latest-2021 Get 2 Book Free On Each Error...,s.sorout preeti singh,other,Paperback,525,425,4.5,136,19,No
+849,CBSE Physics Chapterwise Solved Papers Class 12 for 202...,sk singh,other,Paperback,335,208,4,5,37,No
+850,Susegad,d'souza clyde,English,Hardcover,399,245,4.4,10,38,No
+851,You are the Best Wife,pandey ajay k.,English,Paperback,175,127,4.5,12189,27,yes
+852,NTA UGC(NET/SET/JRF) Paper 2- Management | 2021 | Secon...,mahak mahajan,other,Paperback,675,440,4.5,15,34,No
+853,Introductory Microeconomics Class 11 for (2020-21) Firs...,jain t.r.,English,Paperback,378,338,4.5,697,10,No
+854,Kips Information Technology Skill Course Based on Ms Of...,unknown,English,Paperback,499,444,4.3,306,11,No
+855,"Authentic Shortcuts, Tips & Tricks in Physics for Jee M...",gupta harsh,English,Paperback,250,155,4.3,1517,38,yes
+856,GGSIPU BCA Common Entrance Exam 2021,arihant experts,English,Paperback,405,257,4.2,80,36,No
+857,Health and Physical Education for Class 11,undefined sharma v. k.,English,other,275,230,4.4,1493,16,No
+858,My First Learning Library 24 board book set- First Lear...,majestic book club,other,Hardcover,"1,799",699,4.4,266,61,No
+859,Life is What You Make it,shenoy preeti,English,Paperback,150,112,4.3,21819,25,yes
+860,Shivdas CBSE Chapterwise Question Bank with MCQs Class ...,panel of expert teachers,other,Paperback,250,232,4.1,7,7,No
+861,CBSE All in one NCERT Based Hindi Class 7 for 2022 Exam...,unknown,Hindi,Paperback,290,222,4.6,10,23,No
+862,7300+ Ssc Mathematics By Rakesh Yadav / 1999 To Till Da...,rakesh yadav,other,Paperback,500,415,4.4,47,17,No
+863,"Because Life is a Gift - Stories of Hope, Courage and P...",disha,English,Paperback,175,97,4.3,7786,44,yes
+864,GATE-2022: CGATE Civil Engineering Previous Year Solved...,made easy editorial board,other,Paperback,950,630,4.5,417,33,No
+865,Uttar Pradesh Polytechnic Jeec Joint Entrance Exam 2021,unknown,English,Paperback,385,247,4.2,405,35,No
+866,All In One Chemistry ICSE Class 9 2021-22,goel shikha,English,Paperback,160,120,4.4,108,25,No
+867,Science and Technology,agrahari ravi p,English,Paperback,655,526,4.6,36,19,yes
+868,Oxford School Atlas 36th Edition,paperrback oxford,other,other,400,275,4.5,435,31,No
+869,The Gopi Diaries:,murty sudha,English,Hardcover,299,194,4.6,83,35,No
+870,Kiran NCERT History Class VI To XII 6000+ Facts/ NCERT ...,khan sir patna,Hindi,Paperback,250,208,4.4,1816,16,No
+871,Think and Grow Rich,hill napoleon,English,Paperback,225,102,4.5,52575,54,yes
+872,Complete Companion for B.Sc Nursing and Gnm (General Nu...,parwez saroj,English,Paperback,699,443,4.3,93,36,No
+873,Geography A Comprehensive Study,mahesh kumar barnwal,Hindi,Paperback,425,254,4.4,205,40,No
+874,Arogya Vibhag Bharti Sampurna Margadarshan,dr.rahul bade,Marathi,Paperback,270,258,4.3,20,4,No
+875,Ssc Chapterwise Solved Papers Reasoning 2021,unknown,English,Paperback,335,219,4.2,58,34,No
+876,FMGE SOLUTIONS,deepak marwah siraj ahmed,other,Paperback,"1,995","1,609",4.7,118,19,No
+877,Hold My Hand,datta durjoy,English,Paperback,199,107,4.3,1621,46,No
+878,UPSSSC Samanya Adhyan,vivek yadav,Hindi,Paperback,350,219,4.4,406,37,No
+879,Physics Simplified NCERT Class 11,ms. ekta soni,other,Paperback,275,185,4.4,55,32,No
+880,15 Practice Sets Up B.Ed Jee Kala Varg for 2021 Exam,unknown,Hindi,Paperback,220,137,4.2,220,37,No
+881,Why I am an Atheist and Other Works,singh bhagat,English,Paperback,175,97,4.6,5670,44,yes
+882,Reasoning and Aptitude for GATE and ESE - 2022,made easy editorial board,other,Paperback,650,387,4.4,448,40,No
+883,Handbook of Computer Science & it,mitra surbhi,English,Paperback,200,125,4.3,2479,37,No
+884,All In One Physics ICSE Class 9 2021-22,garg mansi,English,Paperback,235,210,4.5,111,10,No
+885,Guide to Ssc Constable & Rifleman (Gd) Exam,unknown,English,Paperback,420,241,4.3,606,42,yes
+886,Ssc Stenographers Grade C & D Exam 2021,unknown,Hindi,Paperback,285,168,4,25,41,No
+887,Jawahar Navodaya Vidyalaya Entrance Exam Book 2021 Clas...,arihant expters,other,Paperback,325,244,4.3,319,24,No
+888,Ssc Constable (Gd),ram singh yadav,Hindi,Paperback,245,208,4.2,18,15,No
+889,FITNESS HABITS: Breaking the Barriers to Fitness,ojha amaresh,English,Paperback,250,158,4.2,47,36,yes
+890,Arihant General Knowledge 2022,manohar pandey,other,Paperback,195,148,4.2,40,24,No
+891,"Oswaal CBSE MCQs Chapterwise For Term I & II, Class 10 ...",oswaal books,other,Paperback,746,547,4.7,7,26,No
+892,"NCERT SAR UPSC COMBO, NCERT SAR Bhartiya Arthvyavastha ...",mahesh kumar barnwal,Hindi,Paperback,"1,540",799,4.5,1944,48,No
+893,Magical Mythology,gupta stuti,English,Paperback,295,174,4.7,23,41,yes
+894,S.K. Books Indian Army General Duty G.D. /N.E.R. (Engli...,ram singh yadav yajvender yadav,other,Paperback,150,136,4.3,101,9,No
+895,Know Your State Haryana,unknown,English,Paperback,350,218,4.3,24,37,No
+896,"Oswaal CBSE MCQs Chapterwise For Term I & II, Class 10 ...",oswaal books,other,Paperback,746,568,4.5,4,23,No
+897,You are the Best Wife,pandey ajay k.,English,Paperback,175,127,4.5,12189,27,yes
+898,Arihant Objective General English,sp bakshi,other,Paperback,285,245,4.3,58,14,No
+899,15 Practice Sets Ignou B.Ed Entrance Exam 2020,unknown,English,Paperback,195,113,4.2,212,42,No
+900,Topicwise Question Bank in Biology for NEET (NTA) Based...,mhe,English,Paperback,565,434,4.3,29,23,No
+901,"Because Life is a Gift - Stories of Hope, Courage and P...",disha,English,Paperback,175,97,4.3,7786,44,yes
+902,Statistics Economics for Class 11,unknown,English,Paperback,375,326,4.6,255,13,No
+903,Drishti RAS Series Book 1 (Bharat Evam Vishwa Ka Itihaa...,drishti experts,Hindi,Paperback,495,424,4.3,118,14,No
+904,Lucent Vastunishth Samanya Gyan,neeraj chandra chaudhry kiran kumari,Hindi,Paperback,360,285,4.4,124,20,No
+905,Science and Technology,agrahari ravi p,English,Paperback,655,526,4.6,36,19,yes
+906,The Alchemist,coelho paulo,Malayalam,Paperback,210,164,4.6,1488,21,No
+907,Wren And Martin English Grammar And Composition (Regula...,p c wren h martin,other,Paperback,730,457,4.5,896,37,No
+908,3 Varsh UPPSC Mains Varsh-vaar Solved Papers (2020 to 2...,disha experts,other,Paperback,190,102,4.2,32,46,No
+909,Think and Grow Rich,hill napoleon,English,Paperback,225,102,4.5,52575,54,yes
+910,Mathematics for Jee Main Third Edition,tewani g.,English,Paperback,995,630,4.4,2070,36,No
+911,The Blue Umbrella,bond ruskin,English,Hardcover,295,198,4.5,14481,32,No
+912,Indian History And National Movement (Hindi),drishti publications,Hindi,Paperback,360,293,4.5,321,18,No
+913,AADITYA Vastunisth Samanya Hindi 2020 For All Competiti...,hard book  pawan kumar tiwari,Hindi,other,225,180,4.4,915,20,No
+914,COMBO: CSIR-JRF-NET: Life Sciences Fundamentals And Pra...,kumar pranav,English,Paperback,970,560,4.5,5960,42,No
+915,Shrimad Bhagwat Gita Mote Akshar Wali,gita press,Hindi,Hardcover,250,134,4.6,825,46,No
+916,Srimad Bhagavad Gita As It Is ( English ),his divine grace a.c. bhaktivedanta swami prabhupada,other,Hardcover,415,221,4.8,672,46,No
+917,15 Practice Sets Ssc Constable Gd 2021,unknown,Hindi,Paperback,140,132,4.1,30,5,No
+918,Why I am an Atheist and Other Works,singh bhagat,English,Paperback,175,97,4.6,5670,44,yes
+919,Set of 8 Panchatantra and Traditional Story Books colle...,inikao,English,Paperback,280,240,4.2,603,14,No
+920,Everything: Space,national geographic kids,English,Paperback,450,275,4.5,34,38,No
+921,"Pharmacology for Medical Graduates, 4th Updated Edition",dr. shanbhag tara v.,English,Paperback,935,657,4.5,783,29,No
+922,Guide to Ssc Constable & Rifleman (Gd) Exam,unknown,English,Paperback,420,241,4.3,606,42,yes
+923,"Srimad Bhagavad Gita As It Is : Marathi
+(New Edition)",his divine grace a. c. bhaktivedanta swami prabhupada,Marathi,Hardcover,500,224,4.7,2609,55,No
+924,CBSE All In One Computer Science With Python Class 12 f...,neetu gaikwad,other,Paperback,250,220,4.4,57,12,No
+925,MPSC PSI-STI-ASO Aadhunik Maharashtracha Itihas Dr.S.S....,dr.s.s.gathal,Marathi,Paperback,330,278,4.4,184,15,No
+926,You are the Best Wife,pandey ajay k.,English,Paperback,175,127,4.5,12189,27,yes
+927,Objective NCERT At Your FINGERTIPS For NEET-AIIMS - Bio...,provide in headline,other,Paperback,900,584,4.6,358,35,No
+928,Master the Ncert for Neet Rasayan Vigyan Part - 1 2020,unknown,Hindi,Paperback,260,213,4.3,274,18,No
+929,"Solomons, Fryhle, Snyder Organic Chemistry for JEE (Mai...",m s chouhan,other,Paperback,939,715,4.5,129,23,No
+930,"Authentic Shortcuts, Tips & Tricks in Physics for Jee M...",gupta harsh,English,Paperback,250,155,4.3,1517,38,yes
+931,Mujhe Bananaa Hai Upsc Topper,jain nishant,Hindi,Book,250,205,4.5,5277,18,No
+932,JEE Main Chapterwise Solved Papers 2020-2010 Bhotiki 20...,arihant experts,other,Paperback,285,188,4.5,76,34,No
+933,Life is What You Make it,shenoy preeti,English,Paperback,150,112,4.3,21819,25,yes
