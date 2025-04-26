@@ -6,7 +6,7 @@ E-commerce book platforms struggle to balance promotions, pricing, and inventory
 
 **Project overview**
 
-This SQL-based analytical project aims to derive revenue insights, evaluate promotional effectiveness and assess customer demand to extract insights for appropriate data-driven decision-making leading to effective strategic planning for maximizing revenue and optimizing profitability. The analysis focuses on demand pattern and finance perspectives to deliver strategic insights that can drive smarter decisions for inventory planning, marketing, and vendor selection.
+This SQL-based analytical project aims to derive revenue insights, evaluate promotional effectiveness and assess customer demand to extract insights for appropriate data-driven decision-making leading to effective strategic planning for maximizing revenue and optimizing profitability. The goal is to bridge data analysis with actionable business insights that directly impact sales growth, profit optimization, and cash flow stability.
 
 **Business Questions**
 
