@@ -1,9 +1,9 @@
 ## 📌 Key Strategic Findings
 
 ### Top Books and Authors Driving Revenue:
-- **"Think & Grow Rich," "Life is What You Make It," and "You Are the Best Wife"** are the top three revenue-generating books.
-- **Napoleon Hill** is the top author by revenue.
-- **Paperback books in English** have contributed the highest revenue.
+- "Think & Grow Rich," "Life is What You Make It," and "You Are the Best Wife" are the top three revenue-generating books.
+- Napoleon Hill is the top author by revenue.
+- Paperback books in English have contributed the highest revenue.
 
 ### Low-Rated Books Represent Untapped Potential:
 - Low-rated books, if not promoted, risk accumulating into dead stock, impacting cash flow negatively.
