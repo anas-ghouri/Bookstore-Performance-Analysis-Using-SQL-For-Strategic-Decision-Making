@@ -1,4 +1,4 @@
-# E-Commerce-Bookstore-Intelligence-Financial-Strategic-Insights-Using-SQL
+# E-Commerce-Bookstore-Intelligence-Strategic-Insights-Using-SQL
 
 **🧩 Problem Statement:**
 
