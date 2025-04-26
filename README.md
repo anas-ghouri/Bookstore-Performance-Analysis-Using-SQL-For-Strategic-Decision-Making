@@ -1,6 +1,7 @@
 # E-Commerce-Bookstore-Intelligence-Financial-Strategic-Insights-Using-SQL
 
 **🧩 Problem Statement:**
+
 E-commerce book platforms struggle to balance promotions, pricing, and inventory planning without deep visibility into what’s actually driving performance. This project solves that gap by using SQL analytics to uncover hidden patterns and recommend actions
 
 **Project overview**
