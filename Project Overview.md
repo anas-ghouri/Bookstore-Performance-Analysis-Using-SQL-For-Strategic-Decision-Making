@@ -5,6 +5,7 @@
 E-commerce book platforms struggle to balance promotions, pricing, and inventory planning without deep visibility into what’s actually driving performance. This project solves that gap by using SQL analytics to uncover hidden patterns and recommend actions
 
 **Project overview**
+
 This SQL-based analytical project aims to derive revenue insights, evaluate promotional effectiveness and assess customer demand to extract insights for appropriate data-driven decision-making leading to effective strategic planning for maximizing revenue and optimizing profitability. The analysis focuses on demand pattern and finance perspectives to deliver strategic insights that can drive smarter decisions for inventory planning, marketing, and vendor selection.
 
 **Business Questions**
@@ -18,6 +19,7 @@ This SQL-based analytical project aims to derive revenue insights, evaluate prom
 7. Stock Risk Warning — High Discount, Low Sales
 
    🔍**Approach:**
+   
 Analyze sales trends by book, author, genre, language
 
 Compare performance between promoted and non-promoted titles
@@ -25,9 +27,11 @@ Compare performance between promoted and non-promoted titles
 Evaluate revenue contribution by discount levels
 
 **🛠️ Tools Used:**
+
 SQL (MySQL 8.0)
 
 **📊 Techniques Used:**
+
 Aggregation & grouping
 
 Conditional filtering
