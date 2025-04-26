@@ -1,1 +1,47 @@
 # E-Commerce-Bookstore-Intelligence-Financial-Strategic-Insights-Using-SQL
+
+**🧩 Problem Statement:**
+E-commerce book platforms struggle to balance promotions, pricing, and inventory planning without deep visibility into what’s actually driving performance. This project solves that gap by using SQL analytics to uncover hidden patterns and recommend actions
+
+**Project overview**
+This SQL-based analytical project aims to derive revenue insights, evaluate promotional effectiveness and assess customer demand to extract insights for appropriate data-driven decision-making leading to effective strategic planning for maximizing revenue and optimizing profitability. The analysis focuses on demand pattern and finance perspectives to deliver strategic insights that can drive smarter decisions for inventory planning, marketing, and vendor selection.
+
+**Business Questions**
+
+1. Revenue Leaders — What Drives the Business?
+2. Performance by Category — Where's the Money?
+3. Promotional Strategy — Does Discounting Pay Off? Which price segments yield the best ratings and sales?
+4. Promotional Strategy — Does Discounting Pay Off?
+5. High Potential but Undervalued Books
+6. Author Performance
+7. Stock Risk Warning — High Discount, Low Sales
+
+   🔍**Approach:**
+Analyze sales trends by book, author, genre, language
+
+Compare performance between promoted and non-promoted titles
+
+Evaluate revenue contribution by discount levels
+
+**🛠️ Tools Used:**
+SQL (MySQL 8.0)
+
+**📊 Techniques Used:**
+Aggregation & grouping
+
+Conditional filtering
+
+Window functions
+
+**📈 Strategic Business Impact:**
+
+Drives data-backed promotion planning & pricing strategy
+
+Identifies top-performing SKUs & authors
+
+Optimizes inventory through performance-based segmentation
+
+Helps in negotiating author contracts or stocking decisions
+
+Supports targeted marketing for underleveraged products
+
