@@ -13,10 +13,9 @@ This SQL-based analytical project aims to derive revenue insights, evaluate prom
 1. Revenue Leaders — What Drives the Business?
 2. Performance by Category — Where's the Money?
 3. Promotional Strategy — Does Discounting Pay Off? Which price segments yield the best ratings and sales?
-4. Promotional Strategy — Does Discounting Pay Off?
-5. High Potential but Undervalued Books
-6. Author Performance
-7. Stock Risk Warning — High Discount, Low Sales
+4. High Potential but Undervalued Books
+5. Author Performance
+6. Stock Risk Warning — High Discount, Low Sales
 
    🔍**Approach:**
    
